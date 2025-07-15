@@ -1,370 +1,429 @@
-{
-    "metadata": {
-      "scrapedAt": "2025-07-15T21:14:43.685Z",
-      "totalGarages": 31,
-      "success": true
+[
+    {
+      "id": "piercestreetgarage_3252piercestreetsanfranciscoca94123",
+      "name": "Pierce Street Garage",
+      "address": "3252 Pierce Street San Francisco, CA 94123",
+      "lastUpdated": "2025-07-15T21:42:31.694Z",
+      "hourlyRate": 4,
+      "hours": "Always Open",
+      "phone": "415.956.8002",
+      "website": "https://www.sfmta.com/garages-lots/pierce-street-garage",
+      "features": [
+        "pay station"
+      ]
     },
-    "garages": [
-      {
-        "id": "piercestreetgarage_3252piercestreetsanfranciscoca94123",
-        "name": "Pierce Street Garage",
-        "address": "3252 Pierce Street San Francisco, CA 94123",
-        "lastUpdated": "2025-07-15T21:14:46.003Z",
-        "hourlyRate": 4,
-        "phone": "415.956.8002",
-        "website": "https://www.sfmta.com/garages-lots/pierce-street-garage",
-        "features": [
-          "pay station"
-        ]
-      },
-      {
-        "id": "lombardgarage_2055lombardstreetsanfranciscoca94115",
-        "name": "Lombard Garage",
-        "address": "2055 Lombard Street San Francisco, CA 94115",
-        "lastUpdated": "2025-07-15T21:14:54.641Z",
-        "hourlyRate": 4,
-        "phone": "415.956.8002",
-        "website": "https://www.sfmta.com/garages-lots/lombard-garage",
-        "features": [
-          "valet",
-          "app"
-        ]
-      },
-      {
-        "id": "northbeachgarage_735vallejostreetsanfranciscoca94133",
-        "name": "North Beach Garage",
-        "address": "735 Vallejo Street San Francisco, CA 94133",
-        "lastUpdated": "2025-07-15T21:14:59.034Z",
-        "hourlyRate": 5,
-        "phone": "415.956.8002",
-        "website": "https://www.sfmta.com/garages-lots/north-beach-garage",
-        "features": [
-          "valet",
-          "app"
-        ]
-      },
-      {
-        "id": "californiasteinerlot_2450californiastreetsanfranciscoca94115",
-        "name": "California/Steiner Lot",
-        "address": "2450 California Street San Francisco, CA 94115",
-        "lastUpdated": "2025-07-15T21:15:03.184Z",
-        "hourlyRate": 3,
-        "phone": "415.646.4332",
-        "website": "https://www.sfmta.com/garages-lots/californiasteiner-lot",
-        "features": []
-      },
-      {
-        "id": "japancenterannexgarage_japancenterannexgaragesanfranciscoca",
-        "name": "Japan Center Annex Garage",
-        "address": "Japan Center Annex Garage, San Francisco, CA",
-        "lastUpdated": "2025-07-15T21:15:07.579Z",
-        "hourlyRate": 3,
-        "phone": "415.956.8002",
-        "website": "https://www.sfmta.com/garages-lots/japan-center-annex-garage",
-        "features": [
-          "valet",
-          "app"
-        ]
-      },
-      {
-        "id": "japancentergarage_1610gearyblvdsanfranciscoca94115",
-        "name": "Japan Center Garage",
-        "address": "1610 Geary Blvd San Francisco, CA 94115",
-        "lastUpdated": "2025-07-15T21:15:11.970Z",
-        "hourlyRate": 3,
-        "phone": "415.956.8002",
-        "website": "https://www.sfmta.com/garages-lots/japan-center-garage",
-        "features": [
-          "valet",
-          "app"
-        ]
-      },
-      {
-        "id": "performingartsgarage_360grovestreetsanfranciscoca94102",
-        "name": "Performing Arts Garage",
-        "address": "360 Grove Street San Francisco, CA 94102",
-        "lastUpdated": "2025-07-15T21:15:20.598Z",
-        "hourlyRate": 3,
-        "phone": "415.956.8002",
-        "website": "https://www.sfmta.com/garages-lots/performing-arts-garage",
-        "features": [
-          "valet",
-          "app"
-        ]
-      },
-      {
-        "id": "civiccentergarage_355mcallisterstreetsanfranciscoca94102",
-        "name": "Civic Center Garage",
-        "address": "355 McAllister Street San Francisco, CA 94102",
-        "lastUpdated": "2025-07-15T21:15:24.539Z",
-        "hourlyRate": 4,
-        "phone": "415.956.8002",
-        "website": "https://www.sfmta.com/garages-lots/civic-center-garage",
-        "features": [
-          "valet",
-          "app"
-        ]
-      },
-      {
-        "id": "polkbushgarage_1399bushstreetsanfranciscoca94109",
-        "name": "Polk-Bush Garage",
-        "address": "1399 Bush Street San Francisco, CA 94109",
-        "lastUpdated": "2025-07-15T21:15:33.133Z",
-        "hourlyRate": 4,
-        "phone": "415.956.8002",
-        "website": "https://www.sfmta.com/garages-lots/polk-bush-garage",
-        "features": [
-          "app"
-        ]
-      },
-      {
-        "id": "stmaryssquaregarage_433kearnystreetsanfranciscoca94108",
-        "name": "St. Mary's Square Garage",
-        "address": "433 Kearny Street San Francisco, CA 94108",
-        "lastUpdated": "2025-07-15T21:15:48.865Z",
-        "hourlyRate": 4,
-        "phone": "415.956.8002",
-        "website": "https://www.sfmta.com/garages-lots/st-marys-square-garage",
-        "features": [
-          "valet",
-          "app"
-        ]
-      },
-      {
-        "id": "sutterstocktongarage_444stocktonstreetsanfranciscoca94108",
-        "name": "Sutter-Stockton Garage",
-        "address": "444 Stockton Street San Francisco, CA 94108",
-        "lastUpdated": "2025-07-15T21:15:52.807Z",
-        "hourlyRate": 5,
-        "phone": "415.956.8002",
-        "website": "https://www.sfmta.com/garages-lots/sutter-stockton-garage",
-        "features": [
-          "valet",
-          "app"
-        ]
-      },
-      {
-        "id": "unionsquaregarage_333poststreetsanfranciscoca94108",
-        "name": "Union Square Garage",
-        "address": "333 Post Street San Francisco, CA 94108",
-        "lastUpdated": "2025-07-15T21:15:57.002Z",
-        "hourlyRate": 5,
-        "hours": "5:00am - 11:00pm",
-        "phone": "415.765.9069",
-        "website": "https://www.sfmta.com/garages-lots/union-square-garage",
-        "features": [
-          "app"
-        ]
-      },
-      {
-        "id": "ellisofarrellgarage_ellisofarrellgaragesanfranciscoca",
-        "name": "Ellis-O'Farrell Garage",
-        "address": "Ellis Ofarrell Garage, San Francisco, CA",
-        "lastUpdated": "2025-07-15T21:16:01.204Z",
-        "hourlyRate": 5,
-        "phone": "415.765.9069",
-        "website": "https://www.sfmta.com/garages-lots/ellis-ofarrell-garage",
-        "features": [
-          "app"
-        ]
-      },
-      {
-        "id": "fifthmissionyerbabuenagarage_833missionstreetsanfranciscoca94103",
-        "name": "Fifth & Mission / Yerba Buena Garage",
-        "address": "833 Mission Street San Francisco, CA 94103",
-        "lastUpdated": "2025-07-15T21:16:05.107Z",
-        "hourlyRate": 5,
-        "phone": "415.982.8522",
-        "website": "https://www.sfmta.com/garages-lots/fifth-mission-yerba-buena-garage",
-        "features": [
-          "valet",
-          "app"
-        ]
-      },
-      {
-        "id": "mosconecentergarage_mosconecentergaragesanfranciscoca",
-        "name": "Moscone Center Garage",
-        "address": "Moscone Center Garage, San Francisco, CA",
-        "lastUpdated": "2025-07-15T21:16:09.000Z",
-        "hourlyRate": 4,
-        "phone": "415.765.9069",
-        "website": "https://www.sfmta.com/garages-lots/moscone-center-garage",
-        "features": [
-          "valet",
-          "app"
-        ]
-      },
-      {
-        "id": "goldengatewaygarage_250claystreetsanfranciscoca94111",
-        "name": "Golden Gateway Garage",
-        "address": "250 Clay Street San Francisco, CA 94111",
-        "lastUpdated": "2025-07-15T21:16:12.976Z",
-        "hourlyRate": 8,
-        "phone": "415.956.8002",
-        "website": "https://www.sfmta.com/garages-lots/golden-gateway-garage",
-        "features": [
-          "valet",
-          "app"
-        ]
-      },
-      {
-        "id": "7thstharrisonlot_7thstharrisonlotsanfranciscoca",
-        "name": "7th St./Harrison Lot",
-        "address": "7th Stharrison Lot, San Francisco, CA",
-        "lastUpdated": "2025-07-15T21:16:22.373Z",
-        "hourlyRate": 4,
-        "phone": "415.765.9069",
-        "website": "https://www.sfmta.com/garages-lots/7th-stharrison-lot",
-        "features": [
-          "valet",
-          "app"
-        ]
-      },
-      {
-        "id": "16thhoffgarage_16thhoffgaragesanfranciscoca",
-        "name": "16th & Hoff Garage",
-        "address": "16th Hoff Garage, San Francisco, CA",
-        "lastUpdated": "2025-07-15T21:16:26.502Z",
-        "hourlyRate": 5,
-        "website": "https://www.sfmta.com/garages-lots/16th-hoff-garage",
-        "features": [
-          "app"
-        ]
-      },
-      {
-        "id": "missionbartlettgarage_missionbartlettgaragesanfranciscoca",
-        "name": "Mission-Bartlett Garage",
-        "address": "Mission Bartlett Garage, San Francisco, CA",
-        "lastUpdated": "2025-07-15T21:16:30.643Z",
-        "hourlyRate": 3,
-        "phone": "415.765.9069",
-        "website": "https://www.sfmta.com/garages-lots/mission-bartlett-garage",
-        "features": [
-          "valet",
-          "pay station",
-          "app"
-        ]
-      },
-      {
-        "id": "18thstcollingwoodlot_18thstcollingwoodlotsanfranciscoca",
-        "name": "18th St./Collingwood Lot",
-        "address": "18th Stcollingwood Lot, San Francisco, CA",
-        "lastUpdated": "2025-07-15T21:16:54.292Z",
-        "hourlyRate": 2.25,
-        "phone": "415.956.8002",
-        "website": "https://www.sfmta.com/garages-lots/18th-stcollingwood-lot",
-        "features": []
-      },
-      {
-        "id": "castro18thstlot_457castrostreetsanfranciscoca94114",
-        "name": "Castro/18th St. Lot",
-        "address": "457 Castro Street San Francisco, CA 94114",
-        "lastUpdated": "2025-07-15T21:16:59.181Z",
-        "hourlyRate": 2.25,
-        "phone": "415.956.8002",
-        "website": "https://www.sfmta.com/garages-lots/castro18th-st-lot",
-        "features": []
-      },
-      {
-        "id": "24thstnoelot_24thstnoelotsanfranciscoca",
-        "name": "24th St./Noe Lot",
-        "address": "24th Stnoe Lot, San Francisco, CA",
-        "lastUpdated": "2025-07-15T21:17:03.068Z",
-        "hourlyRate": 2.25,
-        "phone": "415.646.4332",
-        "website": "https://www.sfmta.com/garages-lots/24th-stnoe-lot",
-        "features": []
-      },
-      {
-        "id": "nortonmissionlot_20nortonstreetsanfranciscoca94112",
-        "name": "Norton/Mission Lot",
-        "address": "20 Norton Street San Francisco, CA 94112",
-        "lastUpdated": "2025-07-15T21:17:06.705Z",
-        "hourlyRate": 2.25,
-        "phone": "415.646.4332",
-        "website": "https://www.sfmta.com/garages-lots/nortonmission-lot",
-        "features": []
-      },
-      {
-        "id": "kezarlot_kezarlotsanfranciscoca",
-        "name": "Kezar Lot",
-        "address": "Kezar Lot, San Francisco, CA",
-        "lastUpdated": "2025-07-15T21:17:15.339Z",
-        "phone": "415.765.9069",
-        "website": "https://www.sfmta.com/garages-lots/kezar-lot",
-        "features": [
-          "app"
-        ]
-      },
-      {
-        "id": "oceanjuniperoserralot_2500oceanavenuesanfranciscoca94127",
-        "name": "Ocean/Junipero Serra Lot",
-        "address": "2500 Ocean Avenue San Francisco, CA 94127",
-        "lastUpdated": "2025-07-15T21:17:19.478Z",
-        "hourlyRate": 2.25,
-        "phone": "415.646.4332",
-        "website": "https://www.sfmta.com/garages-lots/oceanjunipero-serra-lot",
-        "features": []
-      },
-      {
-        "id": "19thaveoceanlot_19thaveoceanlotsanfranciscoca",
-        "name": "19th Ave./Ocean Lot",
-        "address": "19th Aveocean Lot, San Francisco, CA",
-        "lastUpdated": "2025-07-15T21:17:23.634Z",
-        "hourlyRate": 2.25,
-        "phone": "415.646.4332",
-        "website": "https://www.sfmta.com/garages-lots/19th-aveocean-lot",
-        "features": []
-      },
-      {
-        "id": "westportal14thavelot_174westportalavenuesanfranciscoca94127",
-        "name": "West Portal/14th Ave. Lot",
-        "address": "174 West Portal Avenue San Francisco, CA 94127",
-        "lastUpdated": "2025-07-15T21:17:27.771Z",
-        "hourlyRate": 2.25,
-        "phone": "415.646.4332",
-        "website": "https://www.sfmta.com/garages-lots/west-portal14th-ave-lot",
-        "features": []
-      },
-      {
-        "id": "ulloaclaremontlot_807ulloastreetsanfranciscoca94127",
-        "name": "Ulloa/Claremont Lot",
-        "address": "807 Ulloa Street San Francisco, CA 94127",
-        "lastUpdated": "2025-07-15T21:17:36.228Z",
-        "hourlyRate": 2.25,
-        "phone": "415.646.4332",
-        "website": "https://www.sfmta.com/garages-lots/ulloaclaremont-lot",
-        "features": []
-      },
-      {
-        "id": "20thaveirvinglot_20thaveirvinglotsanfranciscoca",
-        "name": "20th Ave./Irving Lot",
-        "address": "20th Aveirving Lot, San Francisco, CA",
-        "lastUpdated": "2025-07-15T21:17:40.425Z",
-        "hourlyRate": 2.25,
-        "phone": "415.646.4332",
-        "website": "https://www.sfmta.com/garages-lots/20th-aveirving-lot",
-        "features": []
-      },
-      {
-        "id": "geary21stavelot_5732gearyboulevardsanfranciscoca94121",
-        "name": "Geary/21st Ave. Lot",
-        "address": "5732 Geary Boulevard San Francisco, CA 94121",
-        "lastUpdated": "2025-07-15T21:17:54.753Z",
-        "hourlyRate": 2,
-        "phone": "415.646.4332",
-        "website": "https://www.sfmta.com/garages-lots/geary21st-ave-lot",
-        "features": []
-      },
-      {
-        "id": "18thavegearylot_18thavegearylotsanfranciscoca",
-        "name": "18th Ave./Geary Lot",
-        "address": "18th Avegeary Lot, San Francisco, CA",
-        "lastUpdated": "2025-07-15T21:17:58.639Z",
-        "hourlyRate": 2.25,
-        "phone": "415.646.4332",
-        "website": "https://www.sfmta.com/garages-lots/18th-avegeary-lot",
-        "features": []
-      }
-    ]
-  }
+    {
+      "id": "lombardgarage_2055lombardstreetsanfranciscoca94115",
+      "name": "Lombard Garage",
+      "address": "2055 Lombard Street San Francisco, CA 94115",
+      "lastUpdated": "2025-07-15T21:42:36.059Z",
+      "hourlyRate": 4,
+      "hours": "Monday - Sunday: 7:00 am - 10:00 pm",
+      "phone": "415.956.8002",
+      "website": "https://www.sfmta.com/garages-lots/lombard-garage",
+      "features": [
+        "valet",
+        "app"
+      ]
+    },
+    {
+      "id": "northbeachgarage_735vallejostreetsanfranciscoca94133",
+      "name": "North Beach Garage",
+      "address": "735 Vallejo Street San Francisco, CA 94133",
+      "lastUpdated": "2025-07-15T21:42:41.182Z",
+      "hourlyRate": 5,
+      "hours": "Always Open",
+      "phone": "415.956.8002",
+      "website": "https://www.sfmta.com/garages-lots/north-beach-garage",
+      "features": [
+        "valet",
+        "app"
+      ]
+    },
+    {
+      "id": "californiasteinerlot_2450californiastreetsanfranciscoca94115",
+      "name": "California/Steiner Lot",
+      "address": "2450 California Street San Francisco, CA 94115",
+      "lastUpdated": "2025-07-15T21:42:47.053Z",
+      "hourlyRate": 3,
+      "phone": "415.646.4332",
+      "website": "https://www.sfmta.com/garages-lots/californiasteiner-lot",
+      "features": []
+    },
+    {
+      "id": "japancenterannexgarage_japancenterannexgaragesanfranciscoca",
+      "name": "Japan Center Annex Garage",
+      "address": "Japan Center Annex Garage, San Francisco, CA",
+      "lastUpdated": "2025-07-15T21:42:58.171Z",
+      "hourlyRate": 3,
+      "hours": "Always Open",
+      "phone": "415.956.8002",
+      "website": "https://www.sfmta.com/garages-lots/japan-center-annex-garage",
+      "features": [
+        "valet",
+        "app"
+      ]
+    },
+    {
+      "id": "japancentergarage_1610gearyblvdsanfranciscoca94115",
+      "name": "Japan Center Garage",
+      "address": "1610 Geary Blvd San Francisco, CA 94115",
+      "lastUpdated": "2025-07-15T21:43:03.794Z",
+      "hourlyRate": 3,
+      "hours": "Always Open",
+      "phone": "415.956.8002",
+      "website": "https://www.sfmta.com/garages-lots/japan-center-garage",
+      "features": [
+        "valet",
+        "app"
+      ]
+    },
+    {
+      "id": "performingartsgarage_360grovestreetsanfranciscoca94102",
+      "name": "Performing Arts Garage",
+      "address": "360 Grove Street San Francisco, CA 94102",
+      "lastUpdated": "2025-07-15T21:43:10.604Z",
+      "hourlyRate": 3,
+      "hours": "Always Open",
+      "phone": "415.956.8002",
+      "website": "https://www.sfmta.com/garages-lots/performing-arts-garage",
+      "features": [
+        "valet",
+        "app"
+      ]
+    },
+    {
+      "id": "civiccentergarage_355mcallisterstreetsanfranciscoca94102",
+      "name": "Civic Center Garage",
+      "address": "355 McAllister Street San Francisco, CA 94102",
+      "lastUpdated": "2025-07-15T21:43:14.969Z",
+      "hourlyRate": 4,
+      "hours": "Always Open",
+      "phone": "415.956.8002",
+      "website": "https://www.sfmta.com/garages-lots/civic-center-garage",
+      "features": [
+        "valet",
+        "app"
+      ]
+    },
+    {
+      "id": "polkbushgarage_1399bushstreetsanfranciscoca94109",
+      "name": "Polk-Bush Garage",
+      "address": "1399 Bush Street San Francisco, CA 94109",
+      "lastUpdated": "2025-07-15T21:43:21.591Z",
+      "hourlyRate": 4,
+      "hours": "Always Open",
+      "phone": "415.956.8002",
+      "website": "https://www.sfmta.com/garages-lots/polk-bush-garage",
+      "features": [
+        "app"
+      ]
+    },
+    {
+      "id": "portsmouthsquaregarage_733kearnystreetsanfranciscoca94108",
+      "name": "Portsmouth Square Garage",
+      "address": "733 Kearny Street San Francisco, CA 94108",
+      "lastUpdated": "2025-07-15T21:43:27.747Z",
+      "hourlyRate": 4,
+      "hours": "Always Open",
+      "phone": "415.982.6353",
+      "website": "https://www.sfmta.com/garages-lots/portsmouth-square-garage",
+      "features": [
+        "app"
+      ]
+    },
+    {
+      "id": "stmaryssquaregarage_433kearnystreetsanfranciscoca94108",
+      "name": "St. Mary's Square Garage",
+      "address": "433 Kearny Street San Francisco, CA 94108",
+      "lastUpdated": "2025-07-15T21:43:33.115Z",
+      "hourlyRate": 4,
+      "hours": "Sunday - Thursday : 4:00 am - 10:30 pm",
+      "phone": "415.956.8002",
+      "website": "https://www.sfmta.com/garages-lots/st-marys-square-garage",
+      "features": [
+        "valet",
+        "app"
+      ]
+    },
+    {
+      "id": "sutterstocktongarage_444stocktonstreetsanfranciscoca94108",
+      "name": "Sutter-Stockton Garage",
+      "address": "444 Stockton Street San Francisco, CA 94108",
+      "lastUpdated": "2025-07-15T21:43:37.234Z",
+      "hourlyRate": 5,
+      "hours": "Always Open",
+      "phone": "415.956.8002",
+      "website": "https://www.sfmta.com/garages-lots/sutter-stockton-garage",
+      "features": [
+        "valet",
+        "app"
+      ]
+    },
+    {
+      "id": "unionsquaregarage_333poststreetsanfranciscoca94108",
+      "name": "Union Square Garage",
+      "address": "333 Post Street San Francisco, CA 94108",
+      "lastUpdated": "2025-07-15T21:43:41.116Z",
+      "hourlyRate": 5,
+      "hours": "5:00am - 11:00pm",
+      "phone": "415.765.9069",
+      "website": "https://www.sfmta.com/garages-lots/union-square-garage",
+      "features": [
+        "app"
+      ]
+    },
+    {
+      "id": "ellisofarrellgarage_ellisofarrellgaragesanfranciscoca",
+      "name": "Ellis-O'Farrell Garage",
+      "address": "Ellis Ofarrell Garage, San Francisco, CA",
+      "lastUpdated": "2025-07-15T21:43:46.646Z",
+      "hourlyRate": 5,
+      "hours": "Always Open",
+      "phone": "415.765.9069",
+      "website": "https://www.sfmta.com/garages-lots/ellis-ofarrell-garage",
+      "features": [
+        "app"
+      ]
+    },
+    {
+      "id": "fifthmissionyerbabuenagarage_833missionstreetsanfranciscoca94103",
+      "name": "Fifth & Mission / Yerba Buena Garage",
+      "address": "833 Mission Street San Francisco, CA 94103",
+      "lastUpdated": "2025-07-15T21:43:52.509Z",
+      "hourlyRate": 5,
+      "hours": "Always Open",
+      "phone": "415.982.8522",
+      "website": "https://www.sfmta.com/garages-lots/fifth-mission-yerba-buena-garage",
+      "features": [
+        "valet",
+        "app"
+      ]
+    },
+    {
+      "id": "mosconecentergarage_mosconecentergaragesanfranciscoca",
+      "name": "Moscone Center Garage",
+      "address": "Moscone Center Garage, San Francisco, CA",
+      "lastUpdated": "2025-07-15T21:43:58.935Z",
+      "hourlyRate": 4,
+      "hours": "Always Open",
+      "phone": "415.765.9069",
+      "website": "https://www.sfmta.com/garages-lots/moscone-center-garage",
+      "features": [
+        "valet",
+        "app"
+      ]
+    },
+    {
+      "id": "missionbartlettgarage_missionbartlettgaragesanfranciscoca",
+      "name": "Mission-Bartlett Garage",
+      "address": "Mission Bartlett Garage, San Francisco, CA",
+      "lastUpdated": "2025-07-15T21:44:09.564Z",
+      "hourlyRate": 3,
+      "hours": "Sunday - Thursday : 7:00 am - 10:00 pm",
+      "phone": "415.765.9069",
+      "website": "https://www.sfmta.com/garages-lots/mission-bartlett-garage",
+      "features": [
+        "valet",
+        "pay station",
+        "app"
+      ]
+    },
+    {
+      "id": "lilac24thstlot_1lilacstreetsanfranciscoca94110",
+      "name": "Lilac/24th St. Lot",
+      "address": "1 Lilac Street San Francisco, CA 94110",
+      "lastUpdated": "2025-07-15T21:44:15.685Z",
+      "hourlyRate": 2.25,
+      "phone": "415.646.4332",
+      "website": "https://www.sfmta.com/garages-lots/lilac24th-st-lot",
+      "features": []
+    },
+    {
+      "id": "zuckerbergsanfranciscogeneralhospitalandtraumacenterparkinggarage_zuckerbergsanfranciscogeneralhospitalandtraumacenterparkinggaragesanfranciscoca",
+      "name": "Zuckerberg San Francisco General Hospital and Trauma Center Parking Garage",
+      "address": "Zuckerberg San Francisco General Hospital And Trauma Center Parking Garage, San Francisco, CA",
+      "lastUpdated": "2025-07-15T21:44:21.546Z",
+      "hours": "Always Open",
+      "phone": "415.874.4356",
+      "website": "https://www.sfmta.com/garages-lots/zuckerberg-san-francisco-general-hospital-and-trauma-center-parking-garage",
+      "features": [
+        "valet",
+        "app"
+      ]
+    },
+    {
+      "id": "feltonsanbrunolot_25feltonstreetsanfranciscoca94134",
+      "name": "Felton/San Bruno Lot",
+      "address": "25 Felton Street San Francisco, CA 94134",
+      "lastUpdated": "2025-07-15T21:44:27.507Z",
+      "phone": "415.646.4332",
+      "website": "https://www.sfmta.com/garages-lots/feltonsan-bruno-lot",
+      "features": []
+    },
+    {
+      "id": "18thstcollingwoodlot_18thstcollingwoodlotsanfranciscoca",
+      "name": "18th St./Collingwood Lot",
+      "address": "18th Stcollingwood Lot, San Francisco, CA",
+      "lastUpdated": "2025-07-15T21:44:33.129Z",
+      "hourlyRate": 2.25,
+      "phone": "415.956.8002",
+      "website": "https://www.sfmta.com/garages-lots/18th-stcollingwood-lot",
+      "features": []
+    },
+    {
+      "id": "castro18thstlot_457castrostreetsanfranciscoca94114",
+      "name": "Castro/18th St. Lot",
+      "address": "457 Castro Street San Francisco, CA 94114",
+      "lastUpdated": "2025-07-15T21:44:39.493Z",
+      "hourlyRate": 2.25,
+      "phone": "415.956.8002",
+      "website": "https://www.sfmta.com/garages-lots/castro18th-st-lot",
+      "features": []
+    },
+    {
+      "id": "nortonmissionlot_20nortonstreetsanfranciscoca94112",
+      "name": "Norton/Mission Lot",
+      "address": "20 Norton Street San Francisco, CA 94112",
+      "lastUpdated": "2025-07-15T21:48:30.299Z",
+      "hourlyRate": 2.25,
+      "phone": "415.646.4332",
+      "website": "https://www.sfmta.com/garages-lots/nortonmission-lot",
+      "features": []
+    },
+    {
+      "id": "kezarlot_kezarlotsanfranciscoca",
+      "name": "Kezar Lot",
+      "address": "Kezar Lot, San Francisco, CA",
+      "lastUpdated": "2025-07-15T21:48:34.410Z",
+      "hours": "Always Open",
+      "phone": "415.765.9069",
+      "website": "https://www.sfmta.com/garages-lots/kezar-lot",
+      "features": [
+        "app"
+      ]
+    },
+    {
+      "id": "oceanjuniperoserralot_2500oceanavenuesanfranciscoca94127",
+      "name": "Ocean/Junipero Serra Lot",
+      "address": "2500 Ocean Avenue San Francisco, CA 94127",
+      "lastUpdated": "2025-07-15T21:48:40.516Z",
+      "hourlyRate": 2.25,
+      "phone": "415.646.4332",
+      "website": "https://www.sfmta.com/garages-lots/oceanjunipero-serra-lot",
+      "features": []
+    },
+    {
+      "id": "19thaveoceanlot_19thaveoceanlotsanfranciscoca",
+      "name": "19th Ave./Ocean Lot",
+      "address": "19th Aveocean Lot, San Francisco, CA",
+      "lastUpdated": "2025-07-15T21:48:46.630Z",
+      "hourlyRate": 2.25,
+      "phone": "415.646.4332",
+      "website": "https://www.sfmta.com/garages-lots/19th-aveocean-lot",
+      "features": []
+    },
+    {
+      "id": "westportal14thavelot_174westportalavenuesanfranciscoca94127",
+      "name": "West Portal/14th Ave. Lot",
+      "address": "174 West Portal Avenue San Francisco, CA 94127",
+      "lastUpdated": "2025-07-15T21:48:51.745Z",
+      "hourlyRate": 2.25,
+      "phone": "415.646.4332",
+      "website": "https://www.sfmta.com/garages-lots/west-portal14th-ave-lot",
+      "features": []
+    },
+    {
+      "id": "ulloaclaremontlot_807ulloastreetsanfranciscoca94127",
+      "name": "Ulloa/Claremont Lot",
+      "address": "807 Ulloa Street San Francisco, CA 94127",
+      "lastUpdated": "2025-07-15T21:48:57.642Z",
+      "hourlyRate": 2.25,
+      "phone": "415.646.4332",
+      "website": "https://www.sfmta.com/garages-lots/ulloaclaremont-lot",
+      "features": []
+    },
+    {
+      "id": "20thaveirvinglot_20thaveirvinglotsanfranciscoca",
+      "name": "20th Ave./Irving Lot",
+      "address": "20th Aveirving Lot, San Francisco, CA",
+      "lastUpdated": "2025-07-15T21:49:03.013Z",
+      "hourlyRate": 2.25,
+      "phone": "415.646.4332",
+      "website": "https://www.sfmta.com/garages-lots/20th-aveirving-lot",
+      "features": []
+    },
+    {
+      "id": "9thaveirvinglot_9thaveirvinglotsanfranciscoca",
+      "name": "9th Ave./Irving Lot",
+      "address": "9th Aveirving Lot, San Francisco, CA",
+      "lastUpdated": "2025-07-15T21:49:08.879Z",
+      "hourlyRate": 2.25,
+      "phone": "415.646.4332",
+      "website": "https://www.sfmta.com/garages-lots/9th-aveirving-lot",
+      "features": []
+    },
+    {
+      "id": "7thaveirvinglot_7thaveirvinglotsanfranciscoca",
+      "name": "7th Ave./Irving Lot",
+      "address": "7th Aveirving Lot, San Francisco, CA",
+      "lastUpdated": "2025-07-15T21:49:19.513Z",
+      "hourlyRate": 2.25,
+      "phone": "415.646.4332",
+      "website": "https://www.sfmta.com/garages-lots/7th-aveirving-lot",
+      "features": []
+    },
+    {
+      "id": "musicconcoursegarage_musicconcoursegaragesanfranciscoca",
+      "name": "Music Concourse Garage",
+      "address": "Music Concourse Garage, San Francisco, CA",
+      "lastUpdated": "2025-07-15T21:49:25.643Z",
+      "hours": "Always Open",
+      "phone": "415.956.8002",
+      "website": "https://www.sfmta.com/garages-lots/music-concourse-garage",
+      "features": [
+        "valet",
+        "app"
+      ]
+    },
+    {
+      "id": "9thaveclementlot_9thaveclementlotsanfranciscoca",
+      "name": "9th Ave./Clement Lot",
+      "address": "9th Aveclement Lot, San Francisco, CA",
+      "lastUpdated": "2025-07-15T21:49:31.759Z",
+      "hourlyRate": 2.25,
+      "phone": "415.646.4332",
+      "website": "https://www.sfmta.com/garages-lots/9th-aveclement-lot",
+      "features": []
+    },
+    {
+      "id": "8thaveclementlot_8thaveclementlotsanfranciscoca",
+      "name": "8th Ave./Clement Lot",
+      "address": "8th Aveclement Lot, San Francisco, CA",
+      "lastUpdated": "2025-07-15T21:49:37.885Z",
+      "hourlyRate": 2.25,
+      "phone": "415.646.4332",
+      "website": "https://www.sfmta.com/garages-lots/8th-aveclement-lot",
+      "features": []
+    },
+    {
+      "id": "geary21stavelot_5732gearyboulevardsanfranciscoca94121",
+      "name": "Geary/21st Ave. Lot",
+      "address": "5732 Geary Boulevard San Francisco, CA 94121",
+      "lastUpdated": "2025-07-15T21:49:48.244Z",
+      "hourlyRate": 2,
+      "phone": "415.646.4332",
+      "website": "https://www.sfmta.com/garages-lots/geary21st-ave-lot",
+      "features": []
+    },
+    {
+      "id": "18thavegearylot_18thavegearylotsanfranciscoca",
+      "name": "18th Ave./Geary Lot",
+      "address": "18th Avegeary Lot, San Francisco, CA",
+      "lastUpdated": "2025-07-15T21:49:55.359Z",
+      "hourlyRate": 2.25,
+      "phone": "415.646.4332",
+      "website": "https://www.sfmta.com/garages-lots/18th-avegeary-lot",
+      "features": []
+    }
+  ]
