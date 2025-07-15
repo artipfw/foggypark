@@ -1,0 +1,1802 @@
+{
+    "metadata": {
+      "scrapedAt": "2025-07-15T22:15:49.013Z",
+      "totalGarages": 34,
+      "success": true
+    },
+    "garages": [
+      {
+        "id": "piercestreetgarage_3252piercestreetsanfranciscoca94123",
+        "name": "Pierce Street Garage",
+        "address": "3252 Pierce Street San Francisco, CA 94123",
+        "lastUpdated": "2025-07-15T22:15:51.003Z",
+        "hourlyRate": 4,
+        "hours": "Always Open",
+        "phone": "415.956.8002",
+        "website": "https://www.sfmta.com/garages-lots/pierce-street-garage",
+        "features": [
+          "pay station"
+        ],
+        "googlePlaces": {
+          "placeId": "ChIJyfqYxdaAhYARs6qNdk79kLs",
+          "rating": 2,
+          "totalReviews": 53,
+          "reviews": [
+            {
+              "author": "Jared Williams",
+              "rating": 1,
+              "text": "Rental car got window smashed in, no items in car to steal?? Parked here for 4 nights, everything was going fine until the last night. No security on premiss becasue of \"lack of staffing due to COVID-19\".",
+              "time": "2020-06-09T17:45:05.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Beau Babst",
+              "rating": 1,
+              "text": "Car back window smashed. Out of state plates on the car. Seems to be a pattern here. Signs all over the place “disclaim” responsibility for vandalism and theft. Camera right above the incident but no desire to use the footage of the incident to do anything. Why have cameras?",
+              "time": "2019-10-03T20:06:11.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Meghan Oesterle",
+              "rating": 1,
+              "text": "DO NOT PARK HERE!!!! Car was broken into with in 30 mins, all 3 security guards were \"on lunch\" at 7 at night... very sketchy. Looks bright but no security cameras. Filing a police report and a complaint to the manager, this had to be an inside job.",
+              "time": "2017-02-24T05:48:35.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Rachel Rosas",
+              "rating": 1,
+              "text": "DONT PARK HERE. I work nearby so it’s convenient to park here, but TWO times we paid for 12 hours on the pay to park app that they provide because their machine wasn’t working and we still got TICKETS. The tickets were given out at around 11am, when we still had 10 hours left of parking time. Actually, all the cars around us also got tickets as well. We are now trying to contest the tickets but have to escalate the situation and might have to go to a hearing because SFMTA denied our request even while providing the receipt with the date and time on the app showing we paid. Unless you have time and want to risk getting a ticket, I suggest just finding a different garage or parking in the Marina Green (free parking).",
+              "time": "2024-07-28T16:44:34.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Pak Sunyoung",
+              "rating": 1,
+              "text": "No security whatsoever, my vehicle was vandalized, windows broken and small things stolen.",
+              "time": "2020-12-12T19:01:20.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "lombardgarage_2055lombardstreetsanfranciscoca94115",
+        "name": "Lombard Garage",
+        "address": "2055 Lombard Street San Francisco, CA 94115",
+        "lastUpdated": "2025-07-15T22:15:54.877Z",
+        "hourlyRate": 4,
+        "hours": "Monday - Sunday: 7:00 am - 10:00 pm",
+        "phone": "415.956.8002",
+        "website": "https://www.sfmta.com/garages-lots/lombard-garage",
+        "features": [
+          "valet",
+          "app"
+        ],
+        "googlePlaces": {
+          "placeId": "ChIJ7yom5xGBhYARSIDN0msCADM",
+          "rating": 3.7,
+          "totalReviews": 6,
+          "reviews": [
+            {
+              "author": "Tooba Ali",
+              "rating": 5,
+              "text": "Had a great experience with requesting a parking spot here for 2 months. Team was very kind and helpful",
+              "time": "2025-06-10T17:55:15.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Wesley Stanton",
+              "rating": 1,
+              "text": "Would rate 0 stars if I could. Car parked for 24 hours and was immediately broken into. Called their service number which was no help",
+              "time": "2024-10-13T22:11:22.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Randy Greenwald",
+              "rating": 1,
+              "text": "Locked out had to uber home. Don’t park here.",
+              "time": "2024-11-03T06:55:05.000Z",
+              "language": "en"
+            },
+            {
+              "author": "The Masterminder (The Masterminder)",
+              "rating": 5,
+              "text": "Very convenient and cheap",
+              "time": "2024-08-06T02:46:37.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Erik Ohlson",
+              "rating": 5,
+              "text": "Gotta park?",
+              "time": "2024-08-04T20:55:53.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "northbeachgarage_735vallejostreetsanfranciscoca94133",
+        "name": "North Beach Garage",
+        "address": "735 Vallejo Street San Francisco, CA 94133",
+        "lastUpdated": "2025-07-15T22:16:03.508Z",
+        "hourlyRate": 5,
+        "hours": "Always Open",
+        "phone": "415.956.8002",
+        "website": "https://www.sfmta.com/garages-lots/north-beach-garage",
+        "features": [
+          "valet",
+          "app"
+        ],
+        "googlePlaces": {
+          "placeId": "ChIJ52bC0fOAhYARG7crwUklea8",
+          "rating": 4.2,
+          "totalReviews": 309,
+          "reviews": [
+            {
+              "author": "Hana Estalilla",
+              "rating": 4,
+              "text": "There was ample parking space when I went, and the place seemed well kept. The reason I visited was for the view. It’s not as beautiful as views from parks like Ina Coolbrith, and some close buildings can obstruct things, but it’s still pretty and worth seeing. There isn’t anywhere to sit, so it’s not somewhere to spend lots of time in, just good for taking a few pictures. It is  a parking garage, after all. 4/5.",
+              "time": "2025-05-08T23:25:51.000Z",
+              "language": "en"
+            },
+            {
+              "author": "James Maki",
+              "rating": 5,
+              "text": "Definitely one of the nicer parking spaces in San Francisco! I arrived about 1:30pm on a Wednesday and I found parking on level 3. Being gone until after my Alcatraz tour at ~8pm my total for the parking was $30, which is really cheap for being probably the safest place to park.\n\nThis place is about 10 minutes from Chinatown, and 15-20 minutes from the pier. However, there’s a few bike rentals north 10 minutes from here that are great for exploring the entire city in an afternoon. I would definitely recommend this parking place!!!",
+              "time": "2025-05-06T04:33:22.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Eric D",
+              "rating": 5,
+              "text": "Your standard parking garage with working elevator. Great view from the top floor",
+              "time": "2025-04-08T04:02:23.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Markinna “Marie Heather” Mcconico",
+              "rating": 1,
+              "text": "I am extremely frustrated with my recent experience at the SF Parking North Beach garage. The lack of clarity in their parking ticket policy, combined with poor customer service, has left me feeling both angry and disappointed.\n\nThe signs clearly state that the ticket should be kept with you, but this policy should be changed to indicate that it should be left in the car. This setup seems designed to trick people into losing their tickets, forcing them to pay the full price without any prior warning or clear explanation.\n\nDuring peak parking hours on a weekday (around 3:30 PM), I had to quickly pull over to find a spot as I needed to use the bathroom before continuing my drive. I am not familiar with the area, and after parking, I realized I had misplaced my ticket. I called the number listed on the garage window, hoping for assistance, but the person who answered was incredibly rude. I apologized for the mistake, but before I could explain, the staff member abruptly interrupted me, shaming me for losing the ticket and stating that I would have to pay the full price.\n\nIf there is no staff on-site, it would make sense for them to have access to a system where they can verify entry times and charge the correct amount based on that. Unfortunately, the representative did not offer any assistance or show any interest in resolving the issue. It felt as though the garage company was more concerned with penalizing customers than providing service.\n\nI eventually located my ticket after retracing my steps to find a public bathroom. This could have been avoided if the garage had on-site staff or better customer support systems. Needless to say, I quickly paid the correct amount for my $4 parking and left the garage, determined not to return.\n\nOverall, I am extremely dissatisfied with the experience and would not recommend this garage to others. The lack of proper signage, combined with poor customer service, makes this facility a frustrating and unreliable option for parking in the area.",
+              "time": "2025-01-18T04:06:40.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Lo",
+              "rating": 5,
+              "text": "Update --- Its now $5/Hour. Love parking here. Its around $4/Hour. It is across the street from a police station and if this lot is full, there's another one diagonally across the street. It can get full during dinner times. Do not lose the ticket, you will need it to put in the machine to show you how much you need to pay. Un-manned, no staff here that I could see of.",
+              "time": "2025-03-01T22:02:58.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "californiasteinerlot_2450californiastreetsanfranciscoca94115",
+        "name": "California/Steiner Lot",
+        "address": "2450 California Street San Francisco, CA 94115",
+        "lastUpdated": "2025-07-15T22:16:07.622Z",
+        "hourlyRate": 3,
+        "phone": "415.646.4332",
+        "website": "https://www.sfmta.com/garages-lots/californiasteiner-lot",
+        "features": [],
+        "googlePlaces": {
+          "placeId": "ChIJS-cpLMaAhYARKpZ-AsE_7hU",
+          "rating": 2.3,
+          "totalReviews": 12,
+          "reviews": [
+            {
+              "author": "Abram Gordon",
+              "rating": 1,
+              "text": "Park at your discretion. Car window was recently broken, but the attempted robber realized there was nothing to steal. Not a high foot traffic area, so it’s a good spot for someone to peek and break in with little interference.",
+              "time": "2021-05-22T04:39:55.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Mark Pimentel",
+              "rating": 2,
+              "text": "Be careful parking here.  Despite the high end area, this lot has a few punks hanging out near by.   They will wait for the parking lot attendant to leave for a break, and then they swoop in, break in, and take whatever you may have left in the car.    Take anything you want to keep with you.",
+              "time": "2018-10-19T04:06:30.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Halie C",
+              "rating": 2,
+              "text": "My car was recently broken into in this lot at night. Be careful if parking here. Otherwise have had positive experiences parking here. There are usually parking spaces, but it is fairly expensive.",
+              "time": "2020-02-22T06:25:15.000Z",
+              "language": "en"
+            },
+            {
+              "author": "V Maxeno",
+              "rating": 1,
+              "text": "Just like everyone who posted here, our car got broken into last night at 7pm!! And it's just the norm for SF, really sad.",
+              "time": "2022-10-06T13:46:03.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Daniel Shockley",
+              "rating": 1,
+              "text": "Nearly every space is covered stuff broken glass. I would park anywhere else",
+              "time": "2022-02-05T20:44:53.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "japancenterannexgarage_japancenterannexgaragesanfranciscoca",
+        "name": "Japan Center Annex Garage",
+        "address": "Japan Center Annex Garage, San Francisco, CA",
+        "lastUpdated": "2025-07-15T22:16:11.835Z",
+        "hourlyRate": 3,
+        "hours": "Always Open",
+        "phone": "415.956.8002",
+        "website": "https://www.sfmta.com/garages-lots/japan-center-annex-garage",
+        "features": [
+          "valet",
+          "app"
+        ],
+        "googlePlaces": {
+          "placeId": "ChIJBx_9U7iAhYARnenWZOEWMVk",
+          "rating": 3.5,
+          "totalReviews": 82,
+          "reviews": [
+            {
+              "author": "Kristynn Sarmiento",
+              "rating": 3,
+              "text": "I'm not sure why one parking entrance was blocked. It was a disaster waiting to get in on the other side. Once we got in the garage, it was not full at all like the other entrance said. There was plenty of parking on the first level. We parked right by the stairs. The construction didn't seem to be an issue. There was still a huge crowd and an event with vendors. We always have the hardest time deciding where to eat since there are so many options! We love going to the city whenever we get a chance.",
+              "time": "2025-01-04T05:53:21.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Katelyn Ho",
+              "rating": 5,
+              "text": "Great place to visit and play. The town have a mall center which a lot of nice japanese restaurants, ice creams, boba milk tea shops, and coffee shops. And it also have some little cute stores for shopping.",
+              "time": "2021-06-24T18:50:36.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Sigtryggur Kjartansson",
+              "rating": 1,
+              "text": "Absolute disaster of a parking garage. Closed several hours before listed. Number listed was disconnected. Managed to find another number that worked and the attendant was an absolute asshole. Would not listen or try to help in any way. Avoid at all cost!",
+              "time": "2025-01-07T08:05:50.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Mr. Mertman",
+              "rating": 5,
+              "text": "Located one block from The Fillmore.  We parked here while attending the Social Distortion show. Plenty of parking @ a reasonable price.",
+              "time": "2024-12-14T17:31:08.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Shai Keosa",
+              "rating": 1,
+              "text": "I’m from out of state. Got my truck window broken last night, my alarm system most likely scared them away. Do not park here! There’s  no security  here. Even parking outside is not guaranteed your safety. Too much pos ppl in California",
+              "time": "2022-05-11T17:32:46.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "japancentergarage_1610gearyblvdsanfranciscoca94115",
+        "name": "Japan Center Garage",
+        "address": "1610 Geary Blvd San Francisco, CA 94115",
+        "lastUpdated": "2025-07-15T22:16:21.974Z",
+        "hourlyRate": 3,
+        "hours": "Always Open",
+        "phone": "415.956.8002",
+        "website": "https://www.sfmta.com/garages-lots/japan-center-garage",
+        "features": [
+          "valet",
+          "app"
+        ],
+        "googlePlaces": {
+          "placeId": "ChIJ41h3xL6AhYARdoztqtBvwA0",
+          "rating": 4.2,
+          "totalReviews": 729,
+          "reviews": [
+            {
+              "author": "TinaEh VangLee",
+              "rating": 5,
+              "text": "Excellent parking garage. Didn't get any suspicious folks around. But there are lot of signs to not leave important/valuable items or viewable bags in your car.\n\nEntering was easy as leaving. It is a busy parking lot so you may need to make sure to save some time to find parking spots. We got extremely lucky and found a parking spot on the first floor. It is very tight, so if you're planning on driving a bigger SUV or Truck, expect it to be very difficult to maneuver through.\n\nTicket: keep your ticket with you. Do not leave it in the car. When you are leaving, pay at the pay station before leaving or you can pay at the gate. We paid before leaving and it was easy. Just insert the paid ticket and the gate opens.\n\nOverall, a solid parking spot for this location. There is an elevator that will lead you straight into the mall as well.",
+              "time": "2025-01-07T12:57:30.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Denise Marie Flores",
+              "rating": 5,
+              "text": "My family loves this place. The food and people  are amazing here.",
+              "time": "2025-04-17T18:47:28.000Z",
+              "language": "en"
+            },
+            {
+              "author": "A Vee",
+              "rating": 5,
+              "text": "I was very impressed the first time me and my partner visited Japantown! We decided to park at this parking garage while we stayed near a local hotel!\n\nJapantown was so peaceful and quiet compared to the other areas!\n\nThe overnight stay wasn’t too bad at $30! We came back and his car was untouched!\n\nWe will be visiting again this upcoming weekend and I’m a little nervous I will update this review after our second overnight stay using this garage!\n\nUpdate after my weekend vacation:\nMy car was safe through the whole day there! I was very impressed with the amount of security and safety I felt 1000% recommend!",
+              "time": "2025-04-18T01:16:14.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Fernando Samper",
+              "rating": 5,
+              "text": "Easy safe affordable no hassle parking. Was able to fit my dodge ram pickup truck overnight and it was $30. Didn’t have to talk to anyone. Paid with my Apple Pay at a kiosk. Would park there again.",
+              "time": "2025-05-20T00:33:48.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Mama Fox",
+              "rating": 4,
+              "text": "Have parked here several times; nice facility, clean. However, exiting takes an extraordinary amount of time. I prepaid my ticket, so the system should read it and let me out promptly, right? No, it also wanted to \"check your license plate\" and took forever. An extra minute or two PER CAR at the exit gate really adds up -- and backs up the exit line! Please eliminate this unnecessary and time-consuming step, and let people just leave.",
+              "time": "2025-04-22T17:59:11.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "performingartsgarage_360grovestreetsanfranciscoca94102",
+        "name": "Performing Arts Garage",
+        "address": "360 Grove Street San Francisco, CA 94102",
+        "lastUpdated": "2025-07-15T22:16:26.379Z",
+        "hourlyRate": 3,
+        "hours": "Always Open",
+        "phone": "415.956.8002",
+        "website": "https://www.sfmta.com/garages-lots/performing-arts-garage",
+        "features": [
+          "valet",
+          "app"
+        ],
+        "googlePlaces": {
+          "placeId": "ChIJx7XwipiAhYARUxSz03LYR1A",
+          "rating": 3.9,
+          "totalReviews": 285,
+          "reviews": [
+            {
+              "author": "June Z",
+              "rating": 1,
+              "text": "This guy who checks the ticket was very rude to me last  night. I had to figure out how my virtual card works on my own. He knows nothing about it how the machine works but only shouting at me! I was trying my best, but  the rude guy was losing it and not helping. I switching a different car, he clearly doesn’t know how things works but shouting “see it’s not working!” But my card literally went through and the payment was successful. How did those people possibly work there???? They know nothing about how the machine works but only yelling at customers in nasty way!? I will never park my car here ever again!",
+              "time": "2025-04-05T15:54:23.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Theresa Carey",
+              "rating": 1,
+              "text": "We paid at a machine but it took so long to get out of the garage that we were charged an additional $3 at the exit. Two of the exits were blocked so there was a very long wait to get out. Your bad design and mismanagement of resources should not force me to pay extra!\n\nThis garage isn’t set up well for the fact that its patrons will all be leaving at the same time!",
+              "time": "2025-04-29T04:46:17.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Ian Coleman",
+              "rating": 1,
+              "text": "System does not work. Absolute worst place to park, and city run of course. Paid my money, put my ticket in, and the gates didn't open. No number to call, no help button on the machine. Phone is unanswered. 30mins to get out!!! Also, a homeless man with a large stick canvassing cars on the 3rd floor.  No security there, so unsafe. Thanks SFMTA",
+              "time": "2025-04-01T21:20:28.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Lauren",
+              "rating": 1,
+              "text": "I've actually parked in this garage without issue many times before, but despite keeping my car clean and empty, a thief tried to break in and destroyed my quarter panel glass. This happened June 29, 2023, between 7-10pm at night (while I was seeing a show). I had parked near the second floor parking pay station, overlooking Van Ness.\n\nMy rating is not meant to be a reflection on the staff of the parking structure itself; they were actually really helpful and gave me what I needed to file an initial report of this incident. The location of this garage is also very worthwhile, for obvious reasons.\n\nJust remember that being in San Francisco is being in San Francisco, and paying $20 to park your car in a structure it doesn't necessarily guarantee its protection.",
+              "time": "2023-07-03T16:30:13.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Praneet Raj",
+              "rating": 5,
+              "text": "Parked here for the first time. Really affordable pricing. $3/hr if you arrive before noon. $4/hr after noon. Decent size parking spot to park my SUV.",
+              "time": "2022-12-28T20:21:59.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "civiccentergarage_355mcallisterstreetsanfranciscoca94102",
+        "name": "Civic Center Garage",
+        "address": "355 McAllister Street San Francisco, CA 94102",
+        "lastUpdated": "2025-07-15T22:16:30.495Z",
+        "hourlyRate": 4,
+        "hours": "Always Open",
+        "phone": "415.956.8002",
+        "website": "https://www.sfmta.com/garages-lots/civic-center-garage",
+        "features": [
+          "valet",
+          "app"
+        ],
+        "googlePlaces": {
+          "placeId": "ChIJJWgZLpqAhYAREkEnuysx3Io",
+          "reviews": []
+        }
+      },
+      {
+        "id": "polkbushgarage_1399bushstreetsanfranciscoca94109",
+        "name": "Polk-Bush Garage",
+        "address": "1399 Bush Street San Francisco, CA 94109",
+        "lastUpdated": "2025-07-15T22:16:34.360Z",
+        "hourlyRate": 4,
+        "hours": "Always Open",
+        "phone": "415.956.8002",
+        "website": "https://www.sfmta.com/garages-lots/polk-bush-garage",
+        "features": [
+          "app"
+        ],
+        "googlePlaces": {
+          "placeId": "ChIJvyCPX5SAhYARrtYkxidAe_o",
+          "rating": 3.8,
+          "totalReviews": 59,
+          "reviews": [
+            {
+              "author": "Gia Tran",
+              "rating": 4,
+              "text": "Parked there overnight to stay at a nearby hotel and paid $36 for it. Nothing wrong happened and no window was smashed opened. Compact space parking. Careful when leaving the garage as pedestrians may not be visible. Overall not bad",
+              "time": "2024-12-26T21:00:23.000Z",
+              "language": "en"
+            },
+            {
+              "author": "mehmet ugur Dogan",
+              "rating": 1,
+              "text": "Although it was clearly saying 4$ for an hour after 6 pm, system charged 20$ asked the ladies help and got the excuse of flat rate for special event and rude response. Total ripoff:( How can one know whether it is the current pricing",
+              "time": "2025-04-18T03:32:16.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Angelica Cornejo",
+              "rating": 5,
+              "text": "Great location for going out in the area and for a good price too! Its also very well lit in the night for the inside and outside of the garage. Keep the parking ticket to access the back door for the latter hours.",
+              "time": "2024-02-28T18:45:34.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Taylor Blevins",
+              "rating": 5,
+              "text": "Parked here to attend a concert at the Regency Ballroom and had no issues. Parked at 6 and left around 10. For a little over 4 hours it was $12. The garage closes a little early, but there is a door around the back of the garage that has a key code (given on your parking ticket) so it was easy to get back inside. There was also a security guard near the pay machines.\n\nOnly negative was that the street that the back door with the key code was on was an alley with multiple homeless camps. No one bothered us and it was well lit, but worth mentioning.",
+              "time": "2023-04-08T04:57:06.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Findlay Gray",
+              "rating": 5,
+              "text": "Perfect. Right around the corner from a concert hall and had plenty of space. Happy to park on the roof for some quick selfies too. We were able to leave the car there from 6 to midnight and it was only 18$ no complaints with pricing. Entrance to the lot after hours was on a safe street (Fern) and was a simple key code with your ticket number. For sure would use the space again.",
+              "time": "2022-06-12T19:40:37.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "portsmouthsquaregarage_733kearnystreetsanfranciscoca94108",
+        "name": "Portsmouth Square Garage",
+        "address": "733 Kearny Street San Francisco, CA 94108",
+        "lastUpdated": "2025-07-15T22:16:38.230Z",
+        "hourlyRate": 4,
+        "hours": "Always Open",
+        "phone": "415.982.6353",
+        "website": "https://www.sfmta.com/garages-lots/portsmouth-square-garage",
+        "features": [
+          "app"
+        ],
+        "googlePlaces": {
+          "placeId": "ChIJjbxTJYuAhYARNfRU2TzLEj0",
+          "rating": 4,
+          "totalReviews": 311,
+          "reviews": [
+            {
+              "author": "Gabriel Flores",
+              "rating": 2,
+              "text": "Close area to park and very affordable. Unfortunately, we are to be added to the list of break-ins.  It's inevitable in this city. Unfortunately, on our last day. We are from Oregon, so we stood out well. The security guy was helpful in the sense of helping us clean our broken glass and covering it up with plastic bags. Just don't leave anything in your car.",
+              "time": "2024-09-10T20:45:31.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Gustavo",
+              "rating": 4,
+              "text": "We parked here while visiting, for 4 days. It's not cheap, but it is cheaper than others in the area. It didn't feel sketchy inside, and on the weekends it feels busy (people coming and going). However we're aware of the \"don't leave anything inside policy\". We were concerned, so we left literally nothing inside, and we had no issues. Also we parked with the back (trunk) to the driving part of the parking garage to make it harder for anyone to hide while doing something. And we parked near a light. We found parking available the day we arrived (Thursday), but noticed a line of cars to enter on Saturday around lunch time, so beware availability during the weekend. Paying is simple enough, just pricey. We looked at many reviews of different parking garages to find the safest one and I believe they are all the same really, just don't leave anything at all (we also lowered our backseats to show the empty inside of the trunk). Apparently there's a similar structure on top of a police station a bit more north but we couldn't be bothered to go that far.",
+              "time": "2025-01-14T01:50:28.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Jun Li",
+              "rating": 5,
+              "text": "We have a cool experience there to tell the truth of what happens in China nowadays. A lot of traffic. Diverse group. Shade. And nice people!",
+              "time": "2024-08-27T21:33:54.000Z",
+              "language": "en"
+            },
+            {
+              "author": "jam",
+              "rating": 3,
+              "text": "Im doing some work here. The place seems friendly enough. It could use a little cleaning up and some upgrades otherwise it's a nice little spot",
+              "time": "2025-04-20T15:20:59.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Avi NasH",
+              "rating": 4,
+              "text": "Best and safe parking garage in china town in sfo. Park your car here and enjoy your visit.",
+              "time": "2023-09-17T04:56:35.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "mosconecentergarage_mosconecentergaragesanfranciscoca",
+        "name": "Moscone Center Garage",
+        "address": "Moscone Center Garage, San Francisco, CA",
+        "lastUpdated": "2025-07-15T22:17:03.322Z",
+        "hourlyRate": 4,
+        "hours": "Always Open",
+        "phone": "415.765.9069",
+        "website": "https://www.sfmta.com/garages-lots/moscone-center-garage",
+        "features": [
+          "valet",
+          "app"
+        ],
+        "googlePlaces": {
+          "placeId": "ChIJ7-eOun2AhYARYetRe-eU8hM",
+          "rating": 3.8,
+          "totalReviews": 324,
+          "reviews": [
+            {
+              "author": "Murali R",
+              "rating": 3,
+              "text": "Only good thing is proximity to the Center and not very expensive. It is quite small to hold all attendees cars, doesn't have indicator which floors have vacancy etc. it is thevtech capital and for the money they get, can easily upgrade & expand. The entrance can easily be missed, no big signs there.",
+              "time": "2025-06-06T03:47:17.000Z",
+              "language": "en"
+            },
+            {
+              "author": "John Normoyle",
+              "rating": 1,
+              "text": "Not safe. Car broken into during day. 3rd floor. Nothing visible.",
+              "time": "2025-05-08T03:08:31.000Z",
+              "language": "en"
+            },
+            {
+              "author": "David Borel",
+              "rating": 1,
+              "text": "Actively deceptive about the timing. They block you from getting your car atlfter 9PM, but don't disclose that anywhere you can see.",
+              "time": "2025-03-19T08:41:14.000Z",
+              "language": "en"
+            },
+            {
+              "author": "sharad dass",
+              "rating": 1,
+              "text": "Tesla rear window broken into. Backpack opened and laptop stolen with other things. Happened 5/18/25 between 4p-9p",
+              "time": "2025-05-19T05:46:58.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Shubham Jain",
+              "rating": 5,
+              "text": "Great parking lot. Generally have plenty empty spots on weekends",
+              "time": "2024-12-22T00:39:38.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "goldengatewaygarage_250claystreetsanfranciscoca94111",
+        "name": "Golden Gateway Garage",
+        "address": "250 Clay Street San Francisco, CA 94111",
+        "lastUpdated": "2025-07-15T22:17:07.585Z",
+        "hourlyRate": 8,
+        "hours": "Mon - Fri: 4:00 am - 10:00 pm",
+        "phone": "415.956.8002",
+        "website": "https://www.sfmta.com/garages-lots/golden-gateway-garage",
+        "features": [
+          "valet",
+          "app"
+        ],
+        "googlePlaces": {
+          "placeId": "ChIJS-VC-GCAhYAR3TbX96SATk8",
+          "rating": 3.5,
+          "totalReviews": 103,
+          "reviews": [
+            {
+              "author": "Pratik Nalage",
+              "rating": 1,
+              "text": "I believe I was overcharged at this parking garage. The sign near the Clay St. entrance clearly displayed a rate of $8, but I was charged $24. There was no staff on-site to verify the pricing or assist, and the listed phone number went straight to voicemail.\n\nWhile the garage had plenty of open spots on a weekday, it was poorly marked. There were no clear signs directing to the staircase or elevator for exiting the building.\n\nTwo of the staircases are closed due to construction which makes it really difficult to exit the building. It’s like a maze",
+              "time": "2025-05-20T00:05:23.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Edward A",
+              "rating": 4,
+              "text": "May 2025, is $10/day for weekends now. EV chargpoint is on the first floor.",
+              "time": "2025-05-11T21:13:57.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Chaitanya Gokhale",
+              "rating": 4,
+              "text": "Pretty convenient spot for downtown, parked all day for $8 on Saturday (weekend deal).",
+              "time": "2025-04-13T03:18:17.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Elia Torres",
+              "rating": 1,
+              "text": "The prices here are a total scam. They advertise different rates per the time at day when entering. The flat rate does not include the sales tax which goes up depending on the day. I say this because I printed out receipts and one day I paid 8.25% sales tax, and on the 4th of July I paid 22%. The day I parked less hours, ended up being the same price as if I had parked overnight.",
+              "time": "2024-07-07T17:50:29.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Ashley Rae Little",
+              "rating": 1,
+              "text": "DONT PARK HERE!\n\nThey will spontaneously change their hours of operation and \"trick\" you into getting your car locked in overnight.",
+              "time": "2024-02-26T05:33:14.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "7thstharrisonlot_7thstharrisonlotsanfranciscoca",
+        "name": "7th St./Harrison Lot",
+        "address": "7th Stharrison Lot, San Francisco, CA",
+        "lastUpdated": "2025-07-15T22:17:12.957Z",
+        "hourlyRate": 4,
+        "hours": "Monday - Sunday: 7:00 am - 7:00 pm",
+        "phone": "415.765.9069",
+        "website": "https://www.sfmta.com/garages-lots/7th-stharrison-lot",
+        "features": [
+          "valet",
+          "app"
+        ],
+        "googlePlaces": {
+          "placeId": "ChIJVfG1agB_j4AR0s-ozPWoRCE",
+          "reviews": []
+        }
+      },
+      {
+        "id": "16thhoffgarage_16thhoffgaragesanfranciscoca",
+        "name": "16th & Hoff Garage",
+        "address": "16th Hoff Garage, San Francisco, CA",
+        "lastUpdated": "2025-07-15T22:17:17.165Z",
+        "hourlyRate": 5,
+        "hours": "Always Open",
+        "website": "https://www.sfmta.com/garages-lots/16th-hoff-garage",
+        "features": [
+          "app"
+        ],
+        "googlePlaces": {
+          "placeId": "ChIJrdD_BSN-j4ARYZl02Est1ZM",
+          "rating": 3.2,
+          "totalReviews": 72,
+          "reviews": [
+            {
+              "author": "Chelsea",
+              "rating": 1,
+              "text": "While we were lucky enough to not have our car broken into, it smelled like we parked inside a port o potty or a urinal. there were several people camped outside the garage including one having a mental crisis. No one is here to monitor the garage so anything can happen.",
+              "time": "2025-03-17T01:01:15.000Z",
+              "language": "en"
+            },
+            {
+              "author": "J V",
+              "rating": 1,
+              "text": "Wish I’d read the reviews before parking here. Car window smashed in and stolen my tote bag of clothes and my backpack. Silly of me to have left it in the rear seat but folks seem to have had their trunks broken into as well. So just don’t park here.",
+              "time": "2023-11-20T18:15:06.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Vikki Ferriday",
+              "rating": 1,
+              "text": "Do not park here! We were there for about an hour and back window smashed suitcases taken along with passports. Garage is known for targeting rentals.",
+              "time": "2024-04-17T01:50:56.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Gabrielle Grandchamp",
+              "rating": 4,
+              "text": "I’ve parked here at least every week (on varying days) from opening to closing and never had any issues. Cost is similar to parking on the street. I recommend the parking garage during peak restaurant hours as street parking is hard to find or for long term parking (6 or more hours). Just don’t leave any valuables in the open like the rest of SF.",
+              "time": "2024-09-23T05:26:08.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Tyler Ochiai",
+              "rating": 3,
+              "text": "I parked 6-9pm on a Thurs night and made sure I had no valuables visible and my car was safe. Didn't see any broken glass around me either. But sounds from other reviews like you need to be cautious with your belongings here. $4/hr",
+              "time": "2024-02-02T20:45:47.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "missionbartlettgarage_missionbartlettgaragesanfranciscoca",
+        "name": "Mission-Bartlett Garage",
+        "address": "Mission Bartlett Garage, San Francisco, CA",
+        "lastUpdated": "2025-07-15T22:17:21.275Z",
+        "hourlyRate": 3,
+        "hours": "Sunday - Thursday : 7:00 am - 10:00 pm",
+        "phone": "415.765.9069",
+        "website": "https://www.sfmta.com/garages-lots/mission-bartlett-garage",
+        "features": [
+          "valet",
+          "pay station",
+          "app"
+        ],
+        "googlePlaces": {
+          "placeId": "ChIJi4LykD5-j4ARAnxVrEzn_68",
+          "rating": 4,
+          "totalReviews": 164,
+          "reviews": [
+            {
+              "author": "Anna Norman",
+              "rating": 5,
+              "text": "Nice secure lot for easy parking in Mission area. It's very clean and well-lit and I saw at least one employee at the gate. Easy to pay with ApplePay or CC before you head out. I paid $29 to park for roughly five hours. Definitely worth not having to search for street parking!!",
+              "time": "2025-05-19T04:46:53.000Z",
+              "language": "en"
+            },
+            {
+              "author": "James Pillot IV",
+              "rating": 4,
+              "text": "I parked here to go to the Alamo (5 minute walk) from ~8pm to after midnight on a weekend. My car was safe and the cost was reasonable (~$22.00).\n\n*I did run into an issue where the ticket machine took my ticket and didn't print a receipt, somewhat trapping me in the garage, but fortunately the staff was quite helpful in resolving our situation. When in doubt, hit the call button on the ticket machine, it actually works!",
+              "time": "2024-12-08T19:52:46.000Z",
+              "language": "en"
+            },
+            {
+              "author": "cloudedaunt",
+              "rating": 4,
+              "text": "During my short time parking there- A little over 2 hours, I had no issue; getting in and getting out was simple; there are a line of machines on the side of the entrance/exit which you can pay at prior to leaving.\n\nThere was a decent amount of parking space in comparison to some other Indoor Garages i’ve seen. & the prices were fairly reasonable for me.\n\nIt is quite easy for anybody off of the street to just walk inside and do as they please; but if security is your top concern it is certainly better than the street.",
+              "time": "2024-10-08T00:49:15.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Jessica Webb",
+              "rating": 5,
+              "text": "This garage has a 7’7 clearance. Large spots perfect for parking a truck. Also, the prices have increased since the last photo was posted so I included a new one",
+              "time": "2018-12-20T02:28:45.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Trevor Williams",
+              "rating": 4,
+              "text": "I've parked here multiple times over the last year, usually for 1-5 hours (never parked overnight). Overall, I've had no issues concerning break-ins (like parking anywhere in SF, don't leave anything on your seats that could be considered remotely valuable); related to this, the lot is well-lit 24/7, though note there is no on-site security.\n\nI've never seen this lot full - 100% chance of finding a spot here (so far) and the spots are large enough for most vehicle types.\n\nI find myself just going here whenever I have an engagement in The Mission, even if I think I could find a spot on the street.",
+              "time": "2024-07-05T22:55:12.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "lilac24thstlot_1lilacstreetsanfranciscoca94110",
+        "name": "Lilac/24th St. Lot",
+        "address": "1 Lilac Street San Francisco, CA 94110",
+        "lastUpdated": "2025-07-15T22:17:31.636Z",
+        "hourlyRate": 2.25,
+        "phone": "415.646.4332",
+        "website": "https://www.sfmta.com/garages-lots/lilac24th-st-lot",
+        "features": [],
+        "googlePlaces": {
+          "placeId": "ChIJY4jkOUd-j4AR0XrF9ScdHXc",
+          "rating": 4,
+          "totalReviews": 1,
+          "reviews": [
+            {
+              "author": "Nicole Hard",
+              "rating": 4,
+              "text": "Right by the McDonald's is a tucked away alley called lilac st. This place is unbelievable . It is covered in graffiti by talented taggers in the city. U get a minute of calmness from the hectic city. With a slight stench of strong urine once in a while....totally worth ita",
+              "time": "2025-06-13T18:12:22.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "zuckerbergsanfranciscogeneralhospitalandtraumacenterparkinggarage_zuckerbergsanfranciscogeneralhospitalandtraumacenterparkinggaragesanfranciscoca",
+        "name": "Zuckerberg San Francisco General Hospital and Trauma Center Parking Garage",
+        "address": "Zuckerberg San Francisco General Hospital And Trauma Center Parking Garage, San Francisco, CA",
+        "lastUpdated": "2025-07-15T22:17:41.752Z",
+        "hours": "Always Open",
+        "phone": "415.874.4356",
+        "website": "https://www.sfmta.com/garages-lots/zuckerberg-san-francisco-general-hospital-and-trauma-center-parking-garage",
+        "features": [
+          "valet",
+          "app"
+        ],
+        "googlePlaces": {
+          "placeId": "ChIJVdNSvUt-j4AR49kPl-PeH90",
+          "rating": 4.3,
+          "totalReviews": 181,
+          "reviews": [
+            {
+              "author": "Esther Arellano",
+              "rating": 3,
+              "text": "The parking prices are ridiculously over priced, I paid more for parking than I did in gas driving from 2 1/2 hours away. There is no one on site running the garage. Self service.",
+              "time": "2024-10-29T00:21:47.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Tee TooCute Salazar",
+              "rating": 2,
+              "text": "The ER is just the worst, Especially your vistor process is just redundant and stupid like over and over just a step outside you have to go through security again get rechecked in it is just it's just ridiculous.",
+              "time": "2025-04-09T23:28:04.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Bob O`Bob",
+              "rating": 5,
+              "text": "Got a lucky spot as convenient as could be imagined. Validation made exit easy",
+              "time": "2025-04-10T20:13:20.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Joshua McKeighan",
+              "rating": 3,
+              "text": "Easy in, easy out. Typically city garage parking rates",
+              "time": "2025-05-27T20:33:47.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Jason Rivard",
+              "rating": 3,
+              "text": "I have visited many hospitals and worked for a few as well. This one is average. 5 star care 1 star for facilities.",
+              "time": "2024-10-29T10:38:05.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "feltonsanbrunolot_25feltonstreetsanfranciscoca94134",
+        "name": "Felton/San Bruno Lot",
+        "address": "25 Felton Street San Francisco, CA 94134",
+        "lastUpdated": "2025-07-15T22:17:46.981Z",
+        "phone": "415.646.4332",
+        "website": "https://www.sfmta.com/garages-lots/feltonsan-bruno-lot",
+        "features": [],
+        "googlePlaces": {
+          "placeId": "ChIJNfq7xPx-j4ARRRyNd0VzawI",
+          "rating": 1,
+          "totalReviews": 5,
+          "reviews": [
+            {
+              "author": "Charles Cooper",
+              "rating": 1,
+              "text": "Do not park here! Went to eat at Breakfast at Tiffany’s and came back and rear window was broken into! Literally was gone for about an hour. All our luggage was taken from the rental car. Seems like from other reviews this happens a lot. The city needs to address this!",
+              "time": "2022-12-30T00:02:13.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Wei Xiang",
+              "rating": 1,
+              "text": "Got our windows smashed and our stuff taken. Do not park here if you have anything in your car. Happened on easter Sunday 2019. Oh well take it as god used my luggage as a vessel for the unfortunate. To the guys that took our stuff, i hope karma hits you back. Straight onto your kids/parents.",
+              "time": "2019-05-20T09:02:43.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Ana Pustelak",
+              "rating": 1,
+              "text": "Do not park here went to get breakfast at Tiffany's for about an hr around 10 am came back my rear window was broken!!!",
+              "time": "2022-08-03T01:33:43.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Dan Hargesheimer",
+              "rating": 1,
+              "text": "Don’t park here your car will get broken into!",
+              "time": "2017-12-05T03:27:10.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Anthony Prinze",
+              "rating": 1,
+              "text": "You are correct.",
+              "time": "2019-03-31T05:02:30.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "18thstcollingwoodlot_18thstcollingwoodlotsanfranciscoca",
+        "name": "18th St./Collingwood Lot",
+        "address": "18th Stcollingwood Lot, San Francisco, CA",
+        "lastUpdated": "2025-07-15T22:17:51.104Z",
+        "hourlyRate": 2.25,
+        "phone": "415.956.8002",
+        "website": "https://www.sfmta.com/garages-lots/18th-stcollingwood-lot",
+        "features": [],
+        "googlePlaces": {
+          "placeId": "ChIJYbZ8tQR-j4ARv4qMCtOHyRA",
+          "rating": 2.8,
+          "totalReviews": 4,
+          "reviews": [
+            {
+              "author": "Alan H",
+              "rating": 4,
+              "text": "Small parking lot in the Castro. The lot features 28 metered parking spots. Meters operate\nMon-Sat 9:00 am–6:00 pm. The lot has a gate and all cars must leave by 1am.\n\nDo not leave anything in your car and be mindful that break ins are common.",
+              "time": "2018-09-30T20:11:40.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Noah",
+              "rating": 2,
+              "text": "Don’t even bother. Rarely has spots. Not safe at night.",
+              "time": "2022-07-28T04:25:39.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Tricia Muir",
+              "rating": 4,
+              "text": "Mostly empty spots, appears to be safe.",
+              "time": "2021-12-10T10:27:43.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Sam H",
+              "rating": 1,
+              "text": "Broken in here. Not safe at all, a magnet for crime.",
+              "time": "2020-02-28T08:14:08.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "castro18thstlot_457castrostreetsanfranciscoca94114",
+        "name": "Castro/18th St. Lot",
+        "address": "457 Castro Street San Francisco, CA 94114",
+        "lastUpdated": "2025-07-15T22:17:59.966Z",
+        "hourlyRate": 2.25,
+        "phone": "415.956.8002",
+        "website": "https://www.sfmta.com/garages-lots/castro18th-st-lot",
+        "features": [],
+        "googlePlaces": {
+          "placeId": "ChIJDY9ARht-j4ARjHQsylL8b_0",
+          "rating": 5,
+          "totalReviews": 7,
+          "reviews": [
+            {
+              "author": "Felix Ng",
+              "rating": 5,
+              "text": "Convenient location and free parking after 6pm",
+              "time": "2022-11-02T16:30:39.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Lawrence Artist",
+              "rating": 5,
+              "text": "Great spot to park right in the middle of everything",
+              "time": "2023-07-06T20:27:07.000Z",
+              "language": "en"
+            },
+            {
+              "author": "John Emmett Patterson",
+              "rating": 5,
+              "text": "Safer",
+              "time": "2023-08-18T14:27:50.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Eddy Gomez",
+              "rating": 5,
+              "text": "",
+              "time": "2024-12-26T03:05:47.000Z"
+            },
+            {
+              "author": "Marie Smith",
+              "rating": 5,
+              "text": "",
+              "time": "2023-11-08T03:08:30.000Z"
+            }
+          ]
+        }
+      },
+      {
+        "id": "24thstnoelot_24thstnoelotsanfranciscoca",
+        "name": "24th St./Noe Lot",
+        "address": "24th Stnoe Lot, San Francisco, CA",
+        "lastUpdated": "2025-07-15T22:18:05.192Z",
+        "hourlyRate": 2.25,
+        "phone": "415.646.4332",
+        "website": "https://www.sfmta.com/garages-lots/24th-stnoe-lot",
+        "features": [],
+        "googlePlaces": {
+          "placeId": "ChIJXb9b-BJ-j4ARiqAJCifbpTQ",
+          "reviews": []
+        }
+      },
+      {
+        "id": "kezarlot_kezarlotsanfranciscoca",
+        "name": "Kezar Lot",
+        "address": "Kezar Lot, San Francisco, CA",
+        "lastUpdated": "2025-07-15T22:18:41.397Z",
+        "hours": "Always Open",
+        "phone": "415.765.9069",
+        "website": "https://www.sfmta.com/garages-lots/kezar-lot",
+        "features": [
+          "app"
+        ],
+        "googlePlaces": {
+          "placeId": "ChIJt_ycH1GHhYARgFmT_85nvR8",
+          "rating": 4.2,
+          "totalReviews": 109,
+          "reviews": [
+            {
+              "author": "William Robinson",
+              "rating": 4,
+              "text": "Great atmosphere. This is an excellent venue. The sound system needs improving, as we cannot make out much that the MC is saying.",
+              "time": "2025-03-16T18:08:00.000Z",
+              "language": "en"
+            },
+            {
+              "author": "SciTechArts Gallery",
+              "rating": 4,
+              "text": "Why the slopes/ramps instead of stairs?  Went for a college bball game, and I almost didn't want to enter.  These slopes, instead of stairs, really shook me.  And for folks on wheels, the pitch is so steep for the length of the ramp...though I imagine it must meet incline guidelines for a ramp.  Beautiful architectural angles from my vantage point, though, as I did NOT venture past the top-most row.",
+              "time": "2023-11-23T00:18:29.000Z",
+              "language": "en"
+            },
+            {
+              "author": "klik wilson",
+              "rating": 5,
+              "text": "I come here for summer league basketball and cage fights. The basketball is free and a good time. The cage fights are always a blast. I really like the old timey vibes at Kezar. Always good crowds.",
+              "time": "2023-12-06T06:39:13.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Emil Khaligov",
+              "rating": 1,
+              "text": "When I bought a ticket, there is no detailed information about the arena. I went to watch the MMA ticket with my 4-year-old son. It had a very heavy atmosphere inside. Between the break, I wanted to go out with my son, so that he could get air, the officials said that you can't go back. They said if you want to re-enter, you have to buy a ticket. What does this mean ?? If this place cannot do security and management well, this is not my fault. Ventilation is not working well and also cant go out. I will never come again. Those who make events paid  the world's money as rent money, but they should pay attention to such situations. It is very harmful for human health.",
+              "time": "2023-11-12T03:44:31.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Ava T",
+              "rating": 5,
+              "text": "I had my volleyball championship game here last time and it was a very spacious and open gym. I had a great time and won!",
+              "time": "2025-03-22T02:17:42.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "oceanjuniperoserralot_2500oceanavenuesanfranciscoca94127",
+        "name": "Ocean/Junipero Serra Lot",
+        "address": "2500 Ocean Avenue San Francisco, CA 94127",
+        "lastUpdated": "2025-07-15T22:18:51.271Z",
+        "hourlyRate": 2.25,
+        "phone": "415.646.4332",
+        "website": "https://www.sfmta.com/garages-lots/oceanjunipero-serra-lot",
+        "features": [],
+        "googlePlaces": {
+          "placeId": "ChIJ3wYP8IJ9j4ARtPnjyPxr3hY",
+          "reviews": []
+        }
+      },
+      {
+        "id": "19thaveoceanlot_19thaveoceanlotsanfranciscoca",
+        "name": "19th Ave./Ocean Lot",
+        "address": "19th Aveocean Lot, San Francisco, CA",
+        "lastUpdated": "2025-07-15T22:19:01.136Z",
+        "hourlyRate": 2.25,
+        "phone": "415.646.4332",
+        "website": "https://www.sfmta.com/garages-lots/19th-aveocean-lot",
+        "features": [],
+        "googlePlaces": {
+          "placeId": "ChIJhYfEVqV9j4ARYVdsGjFwMCE",
+          "rating": 4.5,
+          "totalReviews": 2,
+          "reviews": [
+            {
+              "author": "Lorenz Romero",
+              "rating": 5,
+              "text": "I'm Commander Shepard and THIS is my favorite lot in the parking structure.",
+              "time": "2017-04-06T04:23:50.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Lucas Ford",
+              "rating": 4,
+              "text": "A little over priced and right spaces",
+              "time": "2018-09-11T22:40:24.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "westportal14thavelot_174westportalavenuesanfranciscoca94127",
+        "name": "West Portal/14th Ave. Lot",
+        "address": "174 West Portal Avenue San Francisco, CA 94127",
+        "lastUpdated": "2025-07-15T22:19:06.758Z",
+        "hourlyRate": 2.25,
+        "phone": "415.646.4332",
+        "website": "https://www.sfmta.com/garages-lots/west-portal14th-ave-lot",
+        "features": [],
+        "googlePlaces": {
+          "placeId": "ChIJe9Gfv-p9j4ARh8TAQ5WpufA",
+          "reviews": []
+        }
+      },
+      {
+        "id": "ulloaclaremontlot_807ulloastreetsanfranciscoca94127",
+        "name": "Ulloa/Claremont Lot",
+        "address": "807 Ulloa Street San Francisco, CA 94127",
+        "lastUpdated": "2025-07-15T22:19:17.909Z",
+        "hourlyRate": 2.25,
+        "phone": "415.646.4332",
+        "website": "https://www.sfmta.com/garages-lots/ulloaclaremont-lot",
+        "features": [],
+        "googlePlaces": {
+          "placeId": "ChIJ9TWKRup9j4ARtonn9Psilas",
+          "reviews": []
+        }
+      },
+      {
+        "id": "20thaveirvinglot_20thaveirvinglotsanfranciscoca",
+        "name": "20th Ave./Irving Lot",
+        "address": "20th Aveirving Lot, San Francisco, CA",
+        "lastUpdated": "2025-07-15T22:19:29.024Z",
+        "hourlyRate": 2.25,
+        "phone": "415.646.4332",
+        "website": "https://www.sfmta.com/garages-lots/20th-aveirving-lot",
+        "features": [],
+        "googlePlaces": {
+          "placeId": "ChIJq_OKj2-HhYARmpRNR4257Pc",
+          "rating": 4.5,
+          "totalReviews": 4,
+          "reviews": [
+            {
+              "author": "Ethan G",
+              "rating": 5,
+              "text": "Had a fantastic time would come back again! Kids had a fun time playing under the cars and with the local rat population. 5 stars!",
+              "time": "2020-01-28T05:37:26.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Hugh Williams",
+              "rating": 5,
+              "text": "I had a great time playing here with kids while pretending to be a rat",
+              "time": "2024-05-04T21:41:33.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Kent Kawashima",
+              "rating": 3,
+              "text": "my kids had a blast playing fortnite mobile in the middle of the road",
+              "time": "2022-05-04T04:04:30.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Tomas Ad",
+              "rating": 5,
+              "text": "",
+              "time": "2023-03-29T12:30:30.000Z"
+            }
+          ]
+        }
+      },
+      {
+        "id": "9thaveirvinglot_9thaveirvinglotsanfranciscoca",
+        "name": "9th Ave./Irving Lot",
+        "address": "9th Aveirving Lot, San Francisco, CA",
+        "lastUpdated": "2025-07-15T22:19:33.637Z",
+        "hourlyRate": 2.25,
+        "phone": "415.646.4332",
+        "website": "https://www.sfmta.com/garages-lots/9th-aveirving-lot",
+        "features": [],
+        "googlePlaces": {
+          "placeId": "ChIJV9gKBFyHhYAR9dkM7Yul0Kg",
+          "rating": 4.2,
+          "totalReviews": 23,
+          "reviews": [
+            {
+              "author": "Sarah Alexander",
+              "rating": 4,
+              "text": "Small outdoor parking lot for 30-35 cars. Max parking for 2 hours only!",
+              "time": "2021-10-21T23:34:25.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Kevin Cullen",
+              "rating": 5,
+              "text": "Small but handy parking lot. What you see is what you get, no other levels.",
+              "time": "2017-12-30T23:14:58.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Mike",
+              "rating": 5,
+              "text": "This is one of my favorite cuddy little secret parking lots in the sunset",
+              "time": "2022-01-13T00:27:43.000Z",
+              "language": "en"
+            },
+            {
+              "author": "AC M",
+              "rating": 4,
+              "text": "Nice parking 🅿️",
+              "time": "2025-04-20T21:38:05.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Chad Horohoe",
+              "rating": 5,
+              "text": "Cars park here. What else to say?",
+              "time": "2022-04-16T04:22:44.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "7thaveirvinglot_7thaveirvinglotsanfranciscoca",
+        "name": "7th Ave./Irving Lot",
+        "address": "7th Aveirving Lot, San Francisco, CA",
+        "lastUpdated": "2025-07-15T22:19:37.253Z",
+        "hourlyRate": 2.25,
+        "phone": "415.646.4332",
+        "website": "https://www.sfmta.com/garages-lots/7th-aveirving-lot",
+        "features": [],
+        "googlePlaces": {
+          "placeId": "ChIJV9gKBFyHhYAR9dkM7Yul0Kg",
+          "rating": 4.2,
+          "totalReviews": 23,
+          "reviews": [
+            {
+              "author": "Sarah Alexander",
+              "rating": 4,
+              "text": "Small outdoor parking lot for 30-35 cars. Max parking for 2 hours only!",
+              "time": "2021-10-21T23:34:25.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Kevin Cullen",
+              "rating": 5,
+              "text": "Small but handy parking lot. What you see is what you get, no other levels.",
+              "time": "2017-12-30T23:14:58.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Mike",
+              "rating": 5,
+              "text": "This is one of my favorite cuddy little secret parking lots in the sunset",
+              "time": "2022-01-13T00:27:43.000Z",
+              "language": "en"
+            },
+            {
+              "author": "AC M",
+              "rating": 4,
+              "text": "Nice parking 🅿️",
+              "time": "2025-04-20T21:38:05.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Chad Horohoe",
+              "rating": 5,
+              "text": "Cars park here. What else to say?",
+              "time": "2022-04-16T04:22:44.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "musicconcoursegarage_musicconcoursegaragesanfranciscoca",
+        "name": "Music Concourse Garage",
+        "address": "Music Concourse Garage, San Francisco, CA",
+        "lastUpdated": "2025-07-15T22:19:41.367Z",
+        "hours": "Always Open",
+        "phone": "415.956.8002",
+        "website": "https://www.sfmta.com/garages-lots/music-concourse-garage",
+        "features": [
+          "valet",
+          "app"
+        ],
+        "googlePlaces": {
+          "placeId": "ChIJ3ZAh8GmHhYARJOM18tGrHwc",
+          "rating": 3.1,
+          "totalReviews": 78,
+          "reviews": [
+            {
+              "author": "Tim Bell",
+              "rating": 1,
+              "text": "Been to the park hundreds of times and this was the first time we decided to use the garage instead of finding street parking, big mistake.\nI will never park in this garage again. When we finished walking around the botanical gardens and headed back to the garage there was a solid line of cars filling the entire garage and two huge lines of people trying to pay their tickets at two 20th century vending machines.\nWe waited so long in line that it added an hour to our parking time.\nIt’s baffling to me that there are driverless cars roaming all around San Francisco and yet we are still waiting in line to make an electronic transaction from an ancient vending machine … and then waiting in another line to exit the garage because a person is collecting those tickets at the exit  - mind boggling.\nTrust me, take the time to circle the roads to find a spot above ground instead of waisting an hour below ground trying to get out of the garage. You’ll thank me.",
+              "time": "2025-01-17T18:11:12.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Karla Navarro",
+              "rating": 1,
+              "text": "Parking attendant guy was awful. We were asking for help to find EV chargers in the parking lot and this Asian guy who was in charge of collecting payment was super rude to us, we were asking him nicely to help us find the correct spot since we had already paid him and he started to yell at us to look on our maps or to google for ev chargers outside. I don’t know how you let people who don’t have any customer service skills work there. You are supposed to be helpful.",
+              "time": "2025-02-19T04:03:48.000Z",
+              "language": "en"
+            },
+            {
+              "author": "tiffany m",
+              "rating": 1,
+              "text": "DO NOT PARK HERE. Horrific experience at de young museum today. There were only 2 points of paying for parking, each of which had over 100 people lining up. Then once you pay, you have to wait in line again in your car to get out (car line was all the way to the second floor). It took over 2 HOURS to LEAVE the museum.\nVery disturbed that attendants still made people pay to leave as there were children crying, car alarms blaring, old people asking to use the bathroom and being told they a) can't go into the museum and b) can't leave the garage on-foot. To top it all - there is absolutely no reception in the parking so there is no way to reach the parking / museum by phone to explain the situation and get help. GREEDY BUSINESS",
+              "time": "2025-01-05T02:18:33.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Aniket Mule",
+              "rating": 1,
+              "text": "I had to pay twice. The machine on first floor (see photo below) doesn't give out receipt automatically and the lady at the counter was not ready to accept this inspite of showing payment proof through bank statement. Moreover, she kept insisting on checking our pockets and did not listen to us. Inspite of people complaining on reviews, this issue seems unaddressed. Extremely disappointed!!",
+              "time": "2024-08-18T02:59:49.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Gia Tran",
+              "rating": 4,
+              "text": "Parked in B2 and there was no paying machine in sight and have to go to B1 floor. I was worried that the paying machine in B1 wouldn’t work and have to pay twice like the other reviewers on here, but mine worked fine (#17 I believed). It was pretty empty on B2 when I parked there around 9. Paid little over $10 for an hour though",
+              "time": "2024-12-26T21:08:49.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "9thaveclementlot_9thaveclementlotsanfranciscoca",
+        "name": "9th Ave./Clement Lot",
+        "address": "9th Aveclement Lot, San Francisco, CA",
+        "lastUpdated": "2025-07-15T22:19:46.618Z",
+        "hourlyRate": 2.25,
+        "phone": "415.646.4332",
+        "website": "https://www.sfmta.com/garages-lots/9th-aveclement-lot",
+        "features": [],
+        "googlePlaces": {
+          "placeId": "ChIJx0Uaxj2HhYARbSR1t6TJG6g",
+          "rating": 4,
+          "totalReviews": 2,
+          "reviews": [
+            {
+              "author": "Kevin Hollenberg",
+              "rating": 3,
+              "text": "What can I say about it is a parking lot. Was able to park the car here and it didn't get broken into so for San Francisco that's good.",
+              "time": "2022-04-11T09:00:30.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Thomas Su",
+              "rating": 5,
+              "text": "",
+              "time": "2018-12-25T20:33:31.000Z"
+            }
+          ]
+        }
+      },
+      {
+        "id": "8thaveclementlot_8thaveclementlotsanfranciscoca",
+        "name": "8th Ave./Clement Lot",
+        "address": "8th Aveclement Lot, San Francisco, CA",
+        "lastUpdated": "2025-07-15T22:19:52.235Z",
+        "hourlyRate": 2.25,
+        "phone": "415.646.4332",
+        "website": "https://www.sfmta.com/garages-lots/8th-aveclement-lot",
+        "features": [],
+        "googlePlaces": {
+          "placeId": "ChIJ5_9TMTyHhYARGCNbgfTt0fw",
+          "rating": 4,
+          "totalReviews": 4,
+          "reviews": [
+            {
+              "author": "Sarah Alexander",
+              "rating": 5,
+              "text": "Great spot to park and catch a meal near Clement St or Richmond District. The hunt for parking around town surely dims the fun! So pick this or any other spot to safely secure your vehicle and go grab that meal!",
+              "time": "2021-10-24T06:40:48.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Michelle Laird",
+              "rating": 5,
+              "text": "I love it thank you",
+              "time": "2022-05-26T00:27:25.000Z",
+              "language": "en"
+            },
+            {
+              "author": "jose hoil",
+              "rating": 1,
+              "text": "Home",
+              "time": "2023-03-15T23:38:48.000Z",
+              "language": "en-US"
+            },
+            {
+              "author": "John Hammond",
+              "rating": 5,
+              "text": "",
+              "time": "2022-12-16T23:15:50.000Z"
+            }
+          ]
+        }
+      },
+      {
+        "id": "geary21stavelot_5732gearyboulevardsanfranciscoca94121",
+        "name": "Geary/21st Ave. Lot",
+        "address": "5732 Geary Boulevard San Francisco, CA 94121",
+        "lastUpdated": "2025-07-15T22:19:57.489Z",
+        "hourlyRate": 2,
+        "phone": "415.646.4332",
+        "website": "https://www.sfmta.com/garages-lots/geary21st-ave-lot",
+        "features": [],
+        "googlePlaces": {
+          "placeId": "ChIJv2GR3g-HhYARKMLVbLfTAaA",
+          "rating": 2.2,
+          "totalReviews": 14,
+          "reviews": [
+            {
+              "author": "Kat Arnett",
+              "rating": 4,
+              "text": "Parked at lunch on Saturday and it seemed just as safe, if not better, than street parking. They could charge more since it's a lot but just normal $3/hr rate.",
+              "time": "2020-01-18T22:13:08.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Alexander Voss",
+              "rating": 1,
+              "text": "Parked for the first time here to go to Dragon Beaux restaurant next door. Car got broken into and multiple others cars as well. The parking lot is not safe and can’t recommend it. City seems not to be able to handle payed parking spots well. Wondering where our taxes go to. Not even security camera on premises.",
+              "time": "2022-03-20T23:47:23.000Z",
+              "language": "en"
+            },
+            {
+              "author": "ngoc xam",
+              "rating": 1,
+              "text": "Parked here and got my window smashed. Its a rental car, so distressed :(",
+              "time": "2023-11-16T07:25:27.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Alex E",
+              "rating": 1,
+              "text": "Add another review from a smashed window victim. This lot has a problem, it seems!",
+              "time": "2024-09-03T20:59:58.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Daniel Acuff",
+              "rating": 1,
+              "text": "Car broken into. Nothing was in the car and nothing was taken, but window was smashed nonetheless. Parked for about an hour.",
+              "time": "2023-01-17T04:22:17.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "18thavegearylot_18thavegearylotsanfranciscoca",
+        "name": "18th Ave./Geary Lot",
+        "address": "18th Avegeary Lot, San Francisco, CA",
+        "lastUpdated": "2025-07-15T22:20:03.103Z",
+        "hourlyRate": 2.25,
+        "phone": "415.646.4332",
+        "website": "https://www.sfmta.com/garages-lots/18th-avegeary-lot",
+        "features": [],
+        "googlePlaces": {
+          "placeId": "ChIJaeDwDxGHhYARJ-ZoBUTX8Mc",
+          "rating": 4.2,
+          "totalReviews": 5,
+          "reviews": [
+            {
+              "author": "Marisa Lopez",
+              "rating": 4,
+              "text": "Cheap parking",
+              "time": "2023-01-23T03:35:54.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Raymond Hursh",
+              "rating": 4,
+              "text": "Lots of Parking",
+              "time": "2021-01-10T17:15:04.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Karen Lim",
+              "rating": 4,
+              "text": "",
+              "time": "2019-08-12T01:20:07.000Z"
+            },
+            {
+              "author": "You’re Live",
+              "rating": 5,
+              "text": "",
+              "time": "2019-06-29T06:27:46.000Z"
+            },
+            {
+              "author": "Musette Perkins",
+              "rating": 4,
+              "text": "",
+              "time": "2019-06-22T22:51:34.000Z"
+            }
+          ]
+        }
+      },
+      {
+        "id": "japancentergarage_1610gearyblvdsanfranciscoca94115",
+        "name": "Japan Center Garage",
+        "address": "1610 Geary Blvd San Francisco, CA 94115",
+        "lastUpdated": "2025-07-15T22:22:58.601Z",
+        "hourlyRate": 3,
+        "hours": "Always Open",
+        "phone": "415.956.8002",
+        "website": "https://www.sfmta.com/garages-lots/japan-center-garage",
+        "features": [
+          "valet",
+          "app"
+        ],
+        "googlePlaces": {
+          "placeId": "ChIJ41h3xL6AhYARdoztqtBvwA0",
+          "rating": 4.2,
+          "totalReviews": 729,
+          "reviews": [
+            {
+              "author": "TinaEh VangLee",
+              "rating": 5,
+              "text": "Excellent parking garage. Didn't get any suspicious folks around. But there are lot of signs to not leave important/valuable items or viewable bags in your car.\n\nEntering was easy as leaving. It is a busy parking lot so you may need to make sure to save some time to find parking spots. We got extremely lucky and found a parking spot on the first floor. It is very tight, so if you're planning on driving a bigger SUV or Truck, expect it to be very difficult to maneuver through.\n\nTicket: keep your ticket with you. Do not leave it in the car. When you are leaving, pay at the pay station before leaving or you can pay at the gate. We paid before leaving and it was easy. Just insert the paid ticket and the gate opens.\n\nOverall, a solid parking spot for this location. There is an elevator that will lead you straight into the mall as well.",
+              "time": "2025-01-07T12:57:30.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Denise Marie Flores",
+              "rating": 5,
+              "text": "My family loves this place. The food and people  are amazing here.",
+              "time": "2025-04-17T18:47:28.000Z",
+              "language": "en"
+            },
+            {
+              "author": "A Vee",
+              "rating": 5,
+              "text": "I was very impressed the first time me and my partner visited Japantown! We decided to park at this parking garage while we stayed near a local hotel!\n\nJapantown was so peaceful and quiet compared to the other areas!\n\nThe overnight stay wasn’t too bad at $30! We came back and his car was untouched!\n\nWe will be visiting again this upcoming weekend and I’m a little nervous I will update this review after our second overnight stay using this garage!\n\nUpdate after my weekend vacation:\nMy car was safe through the whole day there! I was very impressed with the amount of security and safety I felt 1000% recommend!",
+              "time": "2025-04-18T01:16:14.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Fernando Samper",
+              "rating": 5,
+              "text": "Easy safe affordable no hassle parking. Was able to fit my dodge ram pickup truck overnight and it was $30. Didn’t have to talk to anyone. Paid with my Apple Pay at a kiosk. Would park there again.",
+              "time": "2025-05-20T00:33:48.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Mama Fox",
+              "rating": 4,
+              "text": "Have parked here several times; nice facility, clean. However, exiting takes an extraordinary amount of time. I prepaid my ticket, so the system should read it and let me out promptly, right? No, it also wanted to \"check your license plate\" and took forever. An extra minute or two PER CAR at the exit gate really adds up -- and backs up the exit line! Please eliminate this unnecessary and time-consuming step, and let people just leave.",
+              "time": "2025-04-22T17:59:11.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "ellisofarrellgarage_ellisofarrellgaragesanfranciscoca",
+        "name": "Ellis-O'Farrell Garage",
+        "address": "Ellis Ofarrell Garage, San Francisco, CA",
+        "lastUpdated": "2025-07-15T22:23:02.463Z",
+        "hourlyRate": 5,
+        "hours": "Always Open",
+        "phone": "415.765.9069",
+        "website": "https://www.sfmta.com/garages-lots/ellis-ofarrell-garage",
+        "features": [
+          "app"
+        ],
+        "googlePlaces": {
+          "placeId": "ChIJXVMGTY-AhYARez5jgE8Awew",
+          "rating": 4,
+          "totalReviews": 567,
+          "reviews": [
+            {
+              "author": "Cheryl Hu",
+              "rating": 3,
+              "text": "I recently attended a conference in San Francisco and parked my car at the Ellis-O'Farrell Garage overnight. The garage is conveniently located within walking distance of many hotels and conference venues, and the daily maximum rate of $44 is reasonable.\nI was a little nervous at first because there is no on-site personnel, but I was happy to see that there was increased police patrol during the conference. I had no problems at all, and my car was safe and sound when I returned the next morning.\nIf you're looking for a convenient place to park your car overnight in San Francisco, I recommend the Ellis-O'Farrell Garage. Just be sure to exercise caution and leave no valuables in your car.",
+              "time": "2023-09-22T18:03:39.000Z",
+              "language": "en"
+            },
+            {
+              "author": "A N",
+              "rating": 1,
+              "text": "ROBBED ! DO NOT GO HERE. CAR BROKEN INTO ! 46 a night\n\nTHEY POPPED MY DOOR WITH A SCREWDRIVER AND I WONDER IF ANYONE IS WATCHING THE SECURITY CAMERAS? PROBABLY WORKING WITH THEM",
+              "time": "2025-05-23T06:48:47.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Tiger Woods",
+              "rating": 5,
+              "text": "If you're staying at the CitizenM hotel, this is the perfect location. It's right next door and has hundreds of spots.\n\nIt is the safest garage in the Tenderloin/ Union Square I've experienced, and hands down the cleanest garage I've seen in my life.\n\nAs of 9/1/2024, it's $44 per night ($35+tax). Pricey, but worth it for the convenience.\n\nGates lock sometime in the P.M., so you might not be able to get back in after 10pm or maybe even earlier.",
+              "time": "2024-09-05T19:19:17.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Sergey Blashkov",
+              "rating": 5,
+              "text": "I like parkings where you can park the car by your own, having access to your car at any time.\nSpaces are bit narrow but you can make it even on SUV.\nThe payment is easy given they have both human and automated cashiers.",
+              "time": "2018-01-30T01:02:29.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Dennis Barry",
+              "rating": 4,
+              "text": "Easy to get into/out of and in proximity to great dining and shopping options.",
+              "time": "2025-06-14T00:12:00.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "fifthmissionyerbabuenagarage_833missionstreetsanfranciscoca94103",
+        "name": "Fifth & Mission / Yerba Buena Garage",
+        "address": "833 Mission Street San Francisco, CA 94103",
+        "lastUpdated": "2025-07-15T22:23:06.163Z",
+        "hourlyRate": 5,
+        "hours": "Always Open",
+        "phone": "415.982.8522",
+        "website": "https://www.sfmta.com/garages-lots/fifth-mission-yerba-buena-garage",
+        "features": [
+          "valet",
+          "app"
+        ],
+        "googlePlaces": {
+          "placeId": "ChIJZyUp9IaAhYARU8p4J48M_94",
+          "rating": 3.4,
+          "totalReviews": 45,
+          "reviews": [
+            {
+              "author": "Vijay J",
+              "rating": 5,
+              "text": "Reasonably safe. Smells like pee but hey you’re in SF. It’s as good as it can get for a public garage. Make sure you remove everything on your car (like everything) and you should be good.\n\nI personally feel parking on a higher level and farthest from the elevator is safer as it can reduce the chances of getting your car broken into.",
+              "time": "2025-01-02T19:42:20.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Michelle Yuan",
+              "rating": 5,
+              "text": "The hourly rate increased, but it is convenient if you are having a meeting in downtown SF and don't want to pay for the whole day amount",
+              "time": "2025-04-13T22:16:26.000Z",
+              "language": "en"
+            },
+            {
+              "author": "George Petrakis",
+              "rating": 1,
+              "text": "I hate that I'm actually writing a review like this but I tried to find a place to contact someone to log a complaint about the guy working here. It's about 5:00 am and I pulled into the garage and ended up downstairs (sub surface) There were no cars down the and it was looking pretty sketch. I drove up and I was being guided out. I WANTED TO SIMPKY ASK  IF THERE WAS A WAY TO GET UP to the upper floors bit the guys was so completely  rude, dismissive and even turned and walked away b4 I even asked the question. The facility would be better served  unmanned. The employee proved to be the worst interaction I've had with an employee repressive I have ever had in my life. So I ended up throwing away another 5.00 because this guy could not field a question and the manager dude didn't seem interested either, he certainly didn't offer any assistance ce either. Overall terrible experience ce, but that's the norm now..",
+              "time": "2025-05-04T12:22:52.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Henry Tang",
+              "rating": 5,
+              "text": "As a visitor to the city, this is close to our hotel. Parked over Christmas 2024 (overnight rate is $44 per 24 hours, all other rates are PER HOUR basis). Pricing is reasonable, I am sure you can get cheaper rates elsewhere / in open air parking garages.\n\nSafety wise, 1) have not seen anyone unusual inside the parking garage, yes, it's one street away from 6th St and beyond so it's close but you don't see them within the structure; 2) Number plate will get scanned going in and out, and there are cameras in some strategic locations.\n\nWe are careful to pack away our valuables so car is left with nothing of value, all in all, no incidents (break-ins, catalytic converter getting stolen). Will consider parking here again in the future.",
+              "time": "2025-01-02T20:17:39.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Christopher Hosking",
+              "rating": 5,
+              "text": "I needed a place to park near Moscone West for a convention and this is literally as close as you can get. The lot is packed full of cars, is well lit, and I saw security patrolling the area as well as a lot of fellow people moving about after having parked their car, or returning to it. I felt as safe as you can, being that it is San Francisco, that my car would be safe here. I returned about 10 hours later and my car was perfectly fine so I can't really complain. On the second floor near the elevators there was a massively smelly part that stank of pure urine but then again the whole city smells of urine and feces due to how poorly the city is run",
+              "time": "2023-11-27T22:33:04.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "mosconecentergarage_mosconecentergaragesanfranciscoca",
+        "name": "Moscone Center Garage",
+        "address": "Moscone Center Garage, San Francisco, CA",
+        "lastUpdated": "2025-07-15T22:23:09.817Z",
+        "hourlyRate": 4,
+        "hours": "Always Open",
+        "phone": "415.765.9069",
+        "website": "https://www.sfmta.com/garages-lots/moscone-center-garage",
+        "features": [
+          "valet",
+          "app"
+        ],
+        "googlePlaces": {
+          "placeId": "ChIJ7-eOun2AhYARYetRe-eU8hM",
+          "rating": 3.8,
+          "totalReviews": 324,
+          "reviews": [
+            {
+              "author": "Murali R",
+              "rating": 3,
+              "text": "Only good thing is proximity to the Center and not very expensive. It is quite small to hold all attendees cars, doesn't have indicator which floors have vacancy etc. it is thevtech capital and for the money they get, can easily upgrade & expand. The entrance can easily be missed, no big signs there.",
+              "time": "2025-06-06T03:47:17.000Z",
+              "language": "en"
+            },
+            {
+              "author": "John Normoyle",
+              "rating": 1,
+              "text": "Not safe. Car broken into during day. 3rd floor. Nothing visible.",
+              "time": "2025-05-08T03:08:31.000Z",
+              "language": "en"
+            },
+            {
+              "author": "David Borel",
+              "rating": 1,
+              "text": "Actively deceptive about the timing. They block you from getting your car atlfter 9PM, but don't disclose that anywhere you can see.",
+              "time": "2025-03-19T08:41:14.000Z",
+              "language": "en"
+            },
+            {
+              "author": "sharad dass",
+              "rating": 1,
+              "text": "Tesla rear window broken into. Backpack opened and laptop stolen with other things. Happened 5/18/25 between 4p-9p",
+              "time": "2025-05-19T05:46:58.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Shubham Jain",
+              "rating": 5,
+              "text": "Great parking lot. Generally have plenty empty spots on weekends",
+              "time": "2024-12-22T00:39:38.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "sutterstocktongarage_444stocktonstreetsanfranciscoca94108",
+        "name": "Sutter-Stockton Garage",
+        "address": "444 Stockton Street San Francisco, CA 94108",
+        "lastUpdated": "2025-07-15T22:23:13.433Z",
+        "hourlyRate": 5,
+        "hours": "Always Open",
+        "phone": "415.956.8002",
+        "website": "https://www.sfmta.com/garages-lots/sutter-stockton-garage",
+        "features": [
+          "valet",
+          "app"
+        ],
+        "googlePlaces": {
+          "placeId": "ChIJyW--U4mAhYARz6sIg1sK768",
+          "rating": 4.1,
+          "totalReviews": 619,
+          "reviews": [
+            {
+              "author": "Nancy Hayssen",
+              "rating": 5,
+              "text": "Easy to find. Plenty of open parking spaces on a Saturday. Decent stairwell and elevators. There are some tight spots but got my Honda CRV into a slot in a jiffy. There's a hair salon and cafe on the first level. Easy in and out with their ticketing machines. I was shocked when  I returned within the hour it was only $4!",
+              "time": "2021-06-12T21:35:14.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Nikhil",
+              "rating": 4,
+              "text": "Plenty of parking spaces. There are some tight spots too. So, keep looking for better spots. It's usually busy and people come and go. It has 11 floors of parking. Not so clean and secure, but cheaper than most of the parking garages in SF. One of the most affordable parking spots in SF for Union Square, China Town, Financial District and many other notable places just blocks away. If parking on a Sunday(9 AM to 6 PM), there is $1 per hour off. Make the best use of it.\n\nUpdate: Looks like there a price increase recently. Was charged $10 for couple of hours on a week day.",
+              "time": "2022-03-30T01:46:57.000Z",
+              "language": "en"
+            },
+            {
+              "author": "trevor morris",
+              "rating": 5,
+              "text": "Twenty years ago I worked in Union square and for those 3 years Sutter Stockton was my garage.  It was very clean, easy to get in and out of and the people who worked the pay booth late at night were very helpful and friendly.\nI returned today and saw that not much has changed.  This is still a great garage.  The bathrooms need some repairs but are still very clean.  There are no longer any people in the pay booths but a worker was sweeping around the pay stations and asked right away if I needed anything.",
+              "time": "2022-09-05T02:12:30.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Orlando Perez",
+              "rating": 5,
+              "text": "Easy to find, plenty of parking and cheaper than parking around Union Square garages. Of you don't mind a walk then this is a great area to park and even close to China Town. Don't worry there is a Starbucks close by and a CVS. The parking lanes are wide not all compact. There is construction happening to put in newer pay stations so you may have to pay at the office.",
+              "time": "2020-02-15T14:25:23.000Z",
+              "language": "en"
+            },
+            {
+              "author": "Natalie Harrigan",
+              "rating": 1,
+              "text": "Online pricing information is inaccurate. Sunday parking is NOT capped at $18. Don’t get caught out! It’s capped at $44 like any other day. Also they charge you for the whole hour regardless of the time you drive in, which is outrageous. I parked here for 3.5 hours and was charged for 5 hours because I arrived and left mid-hour. You could arrive at 9.58am and leave ten minutes later and you would be charged for 2 hours. I’ve never had this at any other garage. Awful place.",
+              "time": "2024-10-14T03:20:46.000Z",
+              "language": "en"
+            }
+          ]
+        }
+      },
+      {
+        "id": "nortonmissionlot_20nortonstreetsanfranciscoca94112",
+        "name": "Norton/Mission Lot",
+        "address": "20 Norton Street San Francisco, CA 94112",
+        "lastUpdated": "2025-07-15T22:23:17.294Z",
+        "hourlyRate": 2.25,
+        "phone": "415.646.4332",
+        "website": "https://www.sfmta.com/garages-lots/nortonmission-lot",
+        "features": [],
+        "googlePlaces": {
+          "placeId": "ChIJN8Twpoh-j4ARADRcBgnx9Z0",
+          "reviews": []
+        }
+    }
+    ]
+  }
