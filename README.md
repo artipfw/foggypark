@@ -1,7 +1,7 @@
 foggypark
 
 install all dependency 
-uv synk
+uv sync
 
 indexer 
 uv run python weaviate_indexer.py 
