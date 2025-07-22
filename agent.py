@@ -1,25 +1,23 @@
 import os
 import weaviate
-from weaviate.classes.init import Auth
 from dotenv import load_dotenv
-from langchain.vectorstores import Weaviate as WeaviateStore
 from langchain.chains import RetrievalQA
-from langchain.embeddings import OllamaEmbeddings 
+from langchain_weaviate import WeaviateVectorStore
+from langchain_ollama import OllamaEmbeddings
 from hypermode_llm import HypermodeLLM
 
 load_dotenv()
 
 def build_agent():
-    weaviate_url = os.environ["WEAVIATE_URL"]
-    weaviate_api_key = os.environ["WEAVIATE_API_KEY"]
-    client = weaviate.connect_to_weaviate_cloud(
-        cluster_url=weaviate_url,
-        auth_credentials=Auth.api_key(weaviate_api_key),
-        headers={"X-OpenAI-Api-Key": os.environ["OPENAI_API_KEY"]} if "OPENAI_API_KEY" in os.environ else None
+    ollama_base_url = os.environ.get("OLLAMA_BASE_URL")
+    ollama_model = os.environ.get("OLLAMA_MODEL")
+
+    client = weaviate.connect_to_local(
+        headers={"X-OpenAI-Api-Key": os.environ["HYPERMODE_API_KEY"]} if "HYPERMODE_API_KEY" in os.environ else None, 
     )
 
-    embeddings = OllamaEmbeddings(model="mxbai-embed-large")
-    vectorstore = WeaviateStore(client=client, index_name="Chain", embedding=embeddings)
+    embeddings = OllamaEmbeddings(base_url=ollama_base_url, model=ollama_model)
+    vectorstore = WeaviateVectorStore(client=client, index_name="Chunk", embedding=embeddings, text_key="content")
     retriever = vectorstore.as_retriever()
 
     llm = HypermodeLLM()
